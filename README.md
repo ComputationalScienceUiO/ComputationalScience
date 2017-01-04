@@ -1,1 +1,5 @@
-# ComputationalScience
+This site contains information about the newly established Master of Science program in computational science at the University of Oslo. 
+
+The program will educate the next generation of cross-disciplinary science students with the knowledge, skills, and values needed to pose and solve current and new scientific, technological and societal challenges. The program will lay the foundation for cross-disciplinary educational, research and innovation activities.
+
+It is the first educational program to comprehensively treat computation as the triple junction of algorithm development and analysis, high performance computing, and applications to scientific and engineering modeling and data science. This approach recognizes computation as a new discipline rather than being decentralized into isolated sub-disciplines. The CS program will will enable application-driven computational modeling while also exposing disciplinary computational scientists to advanced tools and techniques, which will ignite new transformational connections in research and education.
