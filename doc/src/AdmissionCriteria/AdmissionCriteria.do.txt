@@ -3,7 +3,7 @@ AUTHOR: Admission Criteria
 DATE: Planned start: Fall 2018
 
 
-!split
+
 ===== Admission criteria: Applied Mathematics and Risk Analysis  =====
 
 This study direction requires 90 ECTS in mathematics and informatics courses. 
@@ -12,7 +12,7 @@ o In addition, 20 ECTS have to come from at least  two of the advanced courses M
 o An average mark C (European grading scale) is required for the above courses.
 
 
-!split
+
 ===== Admission criteria: Astrophysics  =====
 The program has a minimum course requirement of 120 ECTS (European Credit Transfer System) at the undergraduate level (bachelor degree or equivalent) in astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. 
 o Of these 120 ECTS, 40 ECTS have to include basic mathematics and programming courses, equivalent to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120 and at least one of the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx. 
@@ -20,7 +20,7 @@ o The remaining 80 ECTS have to be within at most two of the fields of astrophys
 o An average mark C (European grading scale) is required for the 40 ECTS in mathematics and programming (corresponding  to the University of Oslo courses  MAT1100, MAT1110, MAT1120  and the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx or similar courses) and the 40 ECTS at the 2000 and 3000 level. A minimum of 20 ECTS must be at the 3000 level within physics/material science/astrophysics/informatics/mathematics/mechanics. 
 
 
-!split
+
 ===== Admission criteria: Bioinformatics  =====
 
 The program has a minimum course requirement of 120 ECTS (European Credit Transfer System) at the undergraduate level (bachelor degree or equivalent) in Astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. 
@@ -28,7 +28,7 @@ o Of these 120 ECTS, 80 ECTS have to be within Informatics/Mathematics/Statistic
 o A total of at least 40 ECTC out of the 120 ECTC have to be advanced undergraduate courses at the 2000 and 3000 level.
 o An average mark C (European grading scale) is required for the above-specified 80 ECTS in Informatics/Mathematics/Statistics.
 
-!split
+
 ===== Admission criteria: Bioscience  =====
 
 The program has a minimum course requirement of 120 ECTS (European Credit Transfer System) at the undergraduate level (bachelor degree or equivalent) in Astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. 
@@ -38,7 +38,7 @@ o An average mark C (European grading scale) is required for the 40 ECTS in math
 
 
 
-!split
+
 ===== Admission criteria: Chemistry  =====
 
 The program has a minimum course requirement of 120 ECTS (European Credit Transfer System) at the undergraduate level (bachelor degree or equivalent) in Astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. 
@@ -50,7 +50,7 @@ o An average mark C (European grading scale) is required for the 40 ECTS in math
 
 
 
-!split
+
 ===== Admission criteria: Geoscience  =====
 
 The program has a minimum course requirement of 120 ECTS (European Credit Transfer System) at the undergraduate level (bachelor degree or equivalent) in Astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. 
@@ -60,7 +60,7 @@ o An average mark C (European grading scale) is required for the 40 ECTS in math
 
 
 
-!split
+
 ===== Admission criteria: Imaging and Biomedical Computing  =====
 
 The program has a minimum course requirement of 120 ECTS (European Credit Transfer System) at the undergraduate level (bachelor degree or equivalent) in Astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. 
@@ -70,7 +70,7 @@ o An average mark C (European grading scale) is required for the above-specified
 
 
 
-!split
+
 ===== Admission criteria: Materials Science  =====
 
 The program has a minimum course requirement of 120 ECTS (European Credit Transfer System) at the undergraduate level (bachelor degree or equivalent) in Astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. 
@@ -81,7 +81,7 @@ o An average mark C (European grading scale) is required for the 40 ECTS in math
 
 
 
-!split 
+ 
 ===== Admission Criteria: Mechanics =====
 
 o The program requires 80 ECTS within the  basic mathematics and programming courses, equivalent to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120, MEK1100, MEK2200, INF1000/INF1100, MAT-INF3360.
@@ -89,7 +89,7 @@ o In addition, the program requires  one of the following courses INF3331, MAT-I
 o An average mark C (European grading scale) is required for these courses.
 
 
-!split 
+ 
 ===== Admission Criteria: Physics =====
 The program has a minimum course requirement of 120 ECTS (European Credit Transfer System) at the undergraduate level (bachelor degree or equivalent) in Astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. 
 o Of these 120 ECTS, 40 ECTS have to include basic mathematics and programming courses, equivalent to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120 and at least one of the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx. 
