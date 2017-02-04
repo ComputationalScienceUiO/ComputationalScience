@@ -1,0 +1,25 @@
+TITLE: Master program in Computational Science  at the University of Oslo
+AUTHOR: Teaching and Examination
+DATE: Planned start: Fall 2018
+
+
+!split
+===== Forms of examination and assessment =====
+!bblock
+
+=== Language of examination ===
+
+In the courses comprising the program, the exam question papers are
+often given in English, and the answer papers are normally supposed to
+be delivered in English. The course descriptions provide more
+information about requirements concerning the language of examination
+
+=== Grading scale ===
+
+The programme contains both courses using the pass/fail scale and courses using the grading scale with five steps from A to E for pass and F for fail. Each course description provides more information about the grading scale in use.
+
+
+
+
+!eblock
+
