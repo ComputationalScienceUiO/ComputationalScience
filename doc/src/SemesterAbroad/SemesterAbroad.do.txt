@@ -1,0 +1,22 @@
+TITLE: Master program in Computational Science  at the University of Oslo
+AUTHOR: Semester abroad
+DATE: Planned start: Fall 2018
+
+
+!split
+===== Study abroad and international collaborators =====
+
+!bblock
+
+Students at the University of Oslo may choose to "take parts of
+their degrees at a university abroad":"http://www.uio.no/studier/utveksling/".
+The University of Oslo has exchange agreements with other universities in different parts of the world. "The MN Faculty has additional exchange agreements with many universities abroad":"http://www.uio.no/studier/utveksling/avtaler/avtaleeiere/uio/".
+
+Students in this program have a number of interesting international
+exchange possibilities. The involved researchers have extensive
+collaborations with other researchers worldwide. These exchange
+possibility range from top universities in the USA, Asia and Europe as
+well as leading National Laboratories in the USA.
+
+
+!eblock
