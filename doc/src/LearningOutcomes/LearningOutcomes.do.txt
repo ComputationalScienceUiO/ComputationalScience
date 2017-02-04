@@ -4,9 +4,9 @@ DATE: Planned start: Fall 2018
 
 
 
-!split
+
 ===== Computing competence =====
-!bblock
+
 Computing means solving scientific problems using computers. It covers
 numerical as well as symbolic computing. Computing is also about
 developing an understanding of the scientific process by enhancing
@@ -22,11 +22,11 @@ Modern computing competence is about
 * understanding how algorithms are used to solve mathematical problems
 * reproducible science and ethics
 * algorithmic thinking for gaining deeper insights about scientific problems
-!eblock
 
-!split
+
+
 ===== Key elements in computing competence =====
-!bblock
+
 The power of the scientific method lies in identifying a given problem
 as a special case of an abstract class of problems, identifying
 general solution methods for this class of problems, and applying a
@@ -48,11 +48,11 @@ handling of problems. Focusing on algorithmic aspects results in
 deeper insights about scientific problems.
 
 Today's projects in science and industry tend to involve larger teams. Tools for reliable collaboration must therefore be mastered (e.g., version control systems, automated computer experiments for reproducibility, software and method documentation).
-!eblock
 
-!split
+
+
 ===== Overarching description of the CS program  =====
-!bblock
+
 Students of this program learn to use the computer as a laboratory for
 solving problems in science and engineering. The program offers
 exciting thesis projects from many disciplines: biology and life
@@ -75,11 +75,10 @@ developing a deep understanding of the role of computing in solving modern scien
 problems. A candidate from this program gains  deep insights in the fundamnetal role
 computations play  in our advancement of science and technology, as well as the role computations play  in society.
 
-!eblock
 
 
 
-!split
+
 ===== Description of learning outcomes =====
 
 The power of the scientific method lies in identifying a given problem

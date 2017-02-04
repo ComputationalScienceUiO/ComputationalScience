@@ -4,7 +4,7 @@ DATE: Planned start: Fall 2018
 
 
 
-!split
+
 ===== Strategic importance =====
 
 The program will educate the next generation of cross-disciplinary
@@ -28,7 +28,7 @@ transformational connections in research and education.
 FIGURE: [figslides/cs.jpg, width=500 frac=0.6] 
 
 
-!split
+
 ===== Vision for the future: Scientific Computing and Data Science =====
 
 Scientific computing focuses on the development of predictive computer
@@ -52,7 +52,7 @@ medicine). Given a patient’s genetic makeup, the proper data-driven
 model would identify the most effective treatment for that patient.
 
 
-!split
+
 ===== Aims of the program =====
 
 
@@ -74,63 +74,4 @@ opportunities that are aligned with the needs of a 21st century
 workforce. Many companies are seeking
 individuals who have knowledge of both a specific discipline and
 computational modeling.
-
-We plan to offer first Master of Science degrees in Computational Science
-and  our students will be expressly educated in the use of
-computing to model and study the world around them. Students in the CS
-program will achieve a high degree of proficiency in model
-development, critical thinking and analysis.
-
-
-
-!split
-===== Scientific and educational motivation =====
-
-!bblock Applications of simulation
-Numerical simulations of various systems in science are central to our
-basic understanding of nature and technlogy.
-The increase in computational power,
-improved algorithms for solving problems in science as well as access
-to high-performance facilities, allow researchers nowadays to study
-complicated systems across many length and energy scales. Applications
-span from studying quantum physical systems in nanotechnology and the
-characteristics of new materials or subamotic physics at its smallest
-length scale, to simulating galaxies and the evolution of the universe.
-In between, simulations are key to understanding
-cancer treatment and how the brain works,
-predicting climate changes and this week's weather,
-simulating natural disasters, semi-conductor devices,
-quantum computers, as well as assessing risk in the insurance and
-financial industry. These are just a few topics
-already well covered at the University of Oslo and that can be
-topics for coming thesis projects as well as research directions.
-!eblock
-
-!bblock Job market
-A large number of the candidates from the five involved departments
-get jobs where numerical simulations are central and essential. The proposed
-program will raise the educational quality in this area, because
-our candidates need a broader understanding of the possibilities
-and limitations of computation-based problem solving.
-!eblock
-
-!split
-===== Multiscale modeling is a big open research question =====
-
-!bblock
-Today's problems, unlike traditional
-science and engineering, involve complex systems with many distinct
-physical processes. The wide open research topic of this century, both
-in industry and at universities, is how to effectively couple
-processes across different length and energy scales. Progress will
-rely on a multi-disciplinary approach and therefore a need for
-a multi-disciplinary educational program.
-!eblock
-
-!bblock
-The proposed program will foster candidates with the right
-multi-disciplinary background and computational thinking for
-understanding today's simulation technology and its challenges.
-!eblock
-
 

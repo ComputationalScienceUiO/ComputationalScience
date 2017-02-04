@@ -4,9 +4,9 @@ DATE: Planned start: Fall 2018
 
 
 
-!split
+
 ===== Thesis directions =====
-!bblock
+
 
 The program has the following study directions/options
 
@@ -21,15 +21,9 @@ The program has the following study directions/options
 * Computational Science: Mechanics
 * Computational Science: Physics
 
-!eblock
 
-
-
-
-
-!split
 ===== Structure and courses =====
-!bblock
+
 The table here is an example of a suggested path for a Master of Science project,
 with course work the first year and thesis work the last year.
 
@@ -50,13 +44,11 @@ work from the first semester and scatter the respective course load across all f
 Depending on interests and specializations, there are many courses on computational science which can make
 up the required curriculum of course work. Furthermore, courses may be broken up in smaller modules,
 avoding thereby the limitation of 10 ECTS per course only. Some of these courses are listed below.
-!eblock
 
 
 
-!split
+
 ===== Presently available courses at UiO and NMBU =====
-!bblock
 
 * "FYS4150 Computational Physics I":"http://www.uio.no/studier/emner/matnat/fys/FYS4150/index-eng.html"
 * "FYS4411 Computational Physics II":"http://www.uio.no/studier/emner/matnat/fys/FYS4411/"
@@ -76,15 +68,8 @@ avoding thereby the limitation of 10 ECTS per course only. Some of these courses
 * "AST9110 Numerical Modeling":"http://www.uio.no/studier/emner/matnat/astro/AST9110/index-eng.html"
 
 
-
-
-
-
-!eblock
-
-!split
 ===== New courses  =====
-!bblock
+
 In order to build a common study program and identity as a Computational Science student, there will be two compulsory courses that aim at providing topics of common and broad interest.
 Both courses have a workload of 10 ECTS each. The courses are
 
@@ -99,11 +84,11 @@ Both courses have a workload of 10 ECTS each. The courses are
   o Machine architecture and GPU-CPU programming
   o Optimization of code and benchmarking
   o Numerical methods from linear algebra will be discussed as well as examples from life science.
-!eblock
 
 
 
-!split
+
+
 ===== Possible new courses =====
 Some of these courses could incorporate (or base themselves upon) existing ones. The courses here are organized according to their corresponding disciplines. They should, for search ease, contain the word _Computational_ 
 * Mathematics
@@ -134,7 +119,7 @@ Some of these courses could incorporate (or base themselves upon) existing ones.
 
 
 
-!split
+
 ===== Graduate Certificates  =====
 The program plans to offer graduate certificates in
 * Three of the courses with label CS-MATH  gives a certificate in Computational Mathematics
@@ -143,7 +128,7 @@ The program plans to offer graduate certificates in
 * Three of the courses with label CS-INF gives a certificate in High-performance computing. 
 
 
-!split
+
 ===== Dual Degrees  =====
 The program plans to offer dual degrees (more text to come)
 
