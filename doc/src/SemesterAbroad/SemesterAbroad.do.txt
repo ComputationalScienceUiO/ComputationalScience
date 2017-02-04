@@ -3,10 +3,9 @@ AUTHOR: Semester abroad
 DATE: Planned start: Fall 2018
 
 
-!split
+
 ===== Study abroad and international collaborators =====
 
-!bblock
 
 Students at the University of Oslo may choose to "take parts of
 their degrees at a university abroad":"http://www.uio.no/studier/utveksling/".
@@ -19,4 +18,3 @@ possibility range from top universities in the USA, Asia and Europe as
 well as leading National Laboratories in the USA.
 
 
-!eblock

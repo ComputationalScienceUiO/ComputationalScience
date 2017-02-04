@@ -3,9 +3,9 @@ AUTHOR: Teaching and Examination
 DATE: Planned start: Fall 2018
 
 
-!split
+
 ===== Forms of examination and assessment =====
-!bblock
+
 
 === Language of examination ===
 
@@ -19,7 +19,4 @@ information about requirements concerning the language of examination
 The programme contains both courses using the pass/fail scale and courses using the grading scale with five steps from A to E for pass and F for fail. Each course description provides more information about the grading scale in use.
 
 
-
-
-!eblock
 

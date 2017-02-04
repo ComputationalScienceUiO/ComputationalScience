@@ -1,0 +1,22 @@
+TITLE: Master program in Computational Science  at the University of Oslo
+AUTHOR: Program Structure
+DATE: Planned start: Fall 2018
+
+
+===== Thesis directions =====
+
+
+The program has the following study directions/options
+
+* Computational Science: Applied Mathematics and Risk Analysis
+* Computational Science: Astrophysics
+* Computational Science: Bioinformatics
+* Computational Science: Biology
+* Computational Science: Chemistry
+* Computational Science: Geoscience
+* Computational Science: Imaging and Biomedical Computing
+* Computational Science: Materials science
+* Computational Science: Mechanics
+* Computational Science: Physics
+
+
