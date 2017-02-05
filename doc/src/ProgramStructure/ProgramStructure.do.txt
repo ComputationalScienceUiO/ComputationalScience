@@ -13,7 +13,7 @@ The program has the following study directions/options
 * "Computational Science: Applied Mathematics and Risk Analysis":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html"
 * "Computational Science: Astrophysics":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html"
 * "Computational Science: Bioinformatics":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html"
-* "Computational Science: Biology":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html"
+* "Computational Science: Bioscience":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html"
 * "Computational Science: Chemistry":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html"
 * "Computational Science: Geoscience":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html"
 * "Computational Science: Imaging and Biomedical Computing":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html"

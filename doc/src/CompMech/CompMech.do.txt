@@ -1,39 +1,11 @@
-TITLE: Computational Science: Computational Physics
-AUTHOR: Department of Physics, University of Oslo
+TITLE: Computational Science: Mechanics
+AUTHOR: Department of Mathematics, University of Oslo
 DATE: Planned start: Fall 2018
 
 
-===== Why Computational Physics =====
+===== Why Mechanics =====
 
-Students of Computational Physics learn to use the computer as a
-laboratory for solving problems in physics. You can work with subjects
-such as physics, chemistry, mathematics, informatics, geophysics,
-mechanics, geology, biology – you choose your specialist field
-according to your own particular interests.  In the future, numerical
-simulations will increasingly dominate approaches to studying physical
-systems, in line with increased access to computational
-power. Possible applications are extensive, ranging from studying
-quantum physical systems in nanotechnology and the characteristics of
-new materials, to simulating cancer treatment, modelling climate and
-weather, oil flow through various rock strata, simulating natural
-disasters, physics statistics, plasma physics, semi-conductor
-technology, simulating quantum computers, and astrophysics. Research
-includes both pure research projects as well as more applied research.
 
-Other possibilities for thesis work can be related to didactic
-questions and the use of computers in teaching. Such topics range from
-developing numerical tasks for university or college level, or
-studying the use of computers in the school system.  Numerical
-simulations of complex physical systems can replace and/or supplement
-results from extensive and expensive experiments. Our researchers work
-with a broad spectrum of problems related to such numerical
-studies. We participate in a number of national and international
-research projects and are involved in several centres of excellence
-and strategic university programmes. Connections in Europe, Japan and
-USA open up opportunities for our master’s students to study abroad.
-Most of our students find employment as researchers in universities
-and research centres or in industry, often following further research
-studies at PhD level.  
 
 
 ===== Structure and courses =====
@@ -53,41 +25,14 @@ with course work the first year and thesis work the last year.
 | 1st semester      | Master courses      |   Master courses  | Master courses   |
 |--------------------------------------------------------------------------------|
 
-The Computational Physics program is very flexible in its structure and students may opt for starting with their thesis
+This  program is very flexible in its structure and students may opt for starting with their thesis
 work from the first semester and scatter the respective course load across all four semesters.
 Depending on interests and specializations, there are many courses on computational science which can make
 up the required curriculum of course work. Furthermore, courses may be broken up in smaller modules,
 avoding thereby the limitation of 10 ECTS per course only. Some of these courses are listed below.
 
-=== Possible new courses ===
-Depending on specialization, the following courses can be included as part of the compulsory 60 ECTS needed for a Master of Science degree.
-
-* Mathematics
- o _CS-MATH1_: Data analysis and machine learning (Existing "GEO4330":"http://www.uio.no/studier/emner/matnat/geofag/GEO4330/", STK2100)
- o _CS-MATH2_: Basic methods in computational modeling   (new? do we need it?)
- o _CS-MATH3_: Mathematical Foundations of data science (based on MAT-INF4110 and STK4021)
- o _CS-MATH4_: Computational Linear Algebra (based on MAT-INF4130)
- o _CS-MATH5_: Computational differential equations (Based on INF5620)
- o _CS-MATH6_: Computational finance (based on STK4520)
- o _CS-MATH7_: Advanced data science (new)
-* Physical sciences (Astrophysics, geoscience, physics, chemistry and materials science)
- o _CS-PHYS1_: Computational Physics 
- o _CS-PHYS2_: Computational Molecular dynamics in life science and materials science (new)
- o _CS-PHYS3_: Computational Astrophysics 
- o _CS-PHYS4_: Computational quantum mechanics 
- o _CS-PHYS5_: Computational statistical mechanics 
- o _CS-PHYS6_: Computational Materials Science (based on FYS-MENA4111)
-* Bioscience
- o _CS-BIO1_: Computational Bioinformatics (Based on INF5380)
- o _CS-BIO2_: Advanced Computational bioinformatics (new)
- o _CS-PHYS2_: Computational Molecular dynamics in life science and materials science (new)
-* Computer science
- o _CS-INF1_: High-Performance Computing and Numerical projects (parts of inf3380, else new)
- o _CS-INF2_: Advanced optimization of numerical code (new)
-* Mechanics
- o _CS-MECH1_: Computational Mechanics (based on MEK4470 and MEK4250?)
- o _CS-MECH2_: Advanced Computational Mechanics (new?)
-
+=== Courses ===
+Depending on specialization, the following courses that can be included as part of the compulsory 60 ECTS needed for a Master of Science degree are "described here":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/ProgramStructure/html/ProgramStructure-bs.html".
 
 
 
@@ -197,12 +142,15 @@ By completing a Master of Science thesis, the candidate will have developed a cr
 
 
 
-===== Admission Criteria  =====
 
-The Computational Physics program has a minimum course requirement of 120 ECTS (European Credit Transfer System) at the undergraduate level (bachelor degree or equivalent) in Astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. 
-o Of these 120 ECTS, 40 ECTS have to include basic mathematics and programming courses, equivalent to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120 and at least one of the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx. 
-o The remaining 80 ECTS have to be within at most two of the fields of astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. 40 of these 80 ECTS have to be advanced undergraduate courses at the 2000 and 3000 level and a minimum of 20 ECTS must be at the 3000 level within physics/material science/mechanics/astrophysics/informatics/mathematics/bioscience/chemistry/geoscience.
-o An average mark C (European grading scale) is required for the 40 ECTS in mathematics and programming (corresponding  to the University of Oslo courses  MAT1100, MAT1110, MAT1120  and the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx or similar courses) and the 40 ECTS at the 2000 and 3000 level. A minimum of 20 ECTS must be at the 3000 level within physics/material science/astrophysics/mechanics/mathematics/informatics/bioscience/chemistry/geoscience.
+ 
+===== Admission Criteria: Mechanics =====
+
+o The program requires 80 ECTS within the  basic mathematics and programming courses, equivalent to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120, MEK1100, MEK2200, INF1000/INF1100, MAT-INF3360.
+o In addition, the program requires  one of the following courses INF3331, MAT-INF3100, MAT-INF3xxx (Numerical analysis, new code) and/or MAT-INF3yyy (Dynamical systems, new code). 
+o An average mark C (European grading scale) is required for these courses.
+
+
 
 
 =====  Study abroad and international collaborators =====
@@ -214,9 +162,8 @@ The University of Oslo has exchange agreements with other universities in differ
 
 Students in this program have a number of interesting international
 exchange possibilities. The involved researchers have extensive
-collaborations with other researchers worldwide. These exchange
-possibility range from top universities in the USA, Asia and Europe as
-well as leading National Laboratories in the USA.
+collaborations with: _add text_
+
 
 
 
