@@ -10,14 +10,14 @@ The program has the following study directions/options
 
 
 
-* "Computational Science: Applied Mathematics and Risk Analysis":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html"
-* "Computational Science: Astrophysics":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html"
-* "Computational Science: Bioinformatics":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html"
-* "Computational Science: Bioscience":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html"
-* "Computational Science: Chemistry":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html"
-* "Computational Science: Geoscience":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html"
-* "Computational Science: Imaging and Biomedical Computing":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html"
-* "Computational Science: Materials science":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html"
-* "Computational Science: Mechanics":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html"
+* "Computational Science: Applied Mathematics and Risk Analysis":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompMath/html/CompMath-bs.html"
+* "Computational Science: Astrophysics":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompAst/html/CompAst-bs.html"
+* "Computational Science: Bioinformatics":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompBioinf/html/CompBioinf-bs.html"
+* "Computational Science: Bioscience":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompBio/html/CompBio-bs.html"
+* "Computational Science: Chemistry":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompChem/html/CompChem-bs.html"
+* "Computational Science: Geoscience":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompGeo/html/CompGeo-bs.html"
+* "Computational Science: Imaging and Biomedical Computing":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompInf/html/CompInf-bs.html"
+* "Computational Science: Materials science":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompMaterials/html/CompMaterials-bs.html"
+* "Computational Science: Mechanics":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompMech/html/CompMech-bs.html"
 * "Computational Science: Physics":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html"
 
