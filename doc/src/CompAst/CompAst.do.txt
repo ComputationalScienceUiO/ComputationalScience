@@ -41,11 +41,11 @@ energetic Sun.
 At the ITA we have a goal of solving the problems of understanding and
 explaining the active sun. This means that we wish to build numerical models of the
 solar atmosphere good enough that we can construct synthetic
-observables that can be directly compared with observables. We have
+spectral lines and images that can be directly compared with the observations. We have
 access to the best observables; members of the solar group
 at the ITA are Co Investigators on ESA's SOHO mission, NASA's IRIS and
 SDO missions, and JAXA's Hinode mission, as well as having 42 days of
-observing time at the worlds best solar telescope, the Swedish 1-meter
+observing time at the worlds premier solar telescope, the Swedish 1-meter
 Solar Telescope on La Palma (Canary Island). To model the Sun we have
 constructed the Bifrost code, currently the worlds most advanced code
 for modeling the solar chromosphere and corona, and a code that we
