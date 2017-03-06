@@ -22,7 +22,7 @@ computational science is mainly concentrated on three subjects:
 solar atmospheric modeling, extragalactic studies, and the evolution
 of structure in the Universe.
 
-====== Solar Physics ======
+===== Solar Physics =====
 
 Sufficiently stable to nurture life during the last 4 billion years,
 and modern humans the last 100,000 years,  the Sun is nevertheless a
@@ -58,15 +58,14 @@ solving the puzzles that confront us, but also the chance of involving
 our students in exciting work at the forefront of science with a
 mix of observational, theoretical, and/or numerical tasks.
 
-====== Extragalactic astronomy and Cosmology ======
+===== Extragalactic astronomy and Cosmology =====
 
 Galaxies are the building blocks of the Universe. Our home Galaxy, the Milky Way, hosts tens of billions of stars like the Sun, and the Universe contains about one to two hundred billions of galaxies. Galaxies come with different varieties, some with grand design spiral arms like the Milky Way, some with the shape of an ellipsoidal, and still some galaxies look completely irregular. Virtually all large galaxies (including the Milky Way) harbour supermassive black holes (SMBHs) at their centre. The vast space between galaxies are filled with gaseous intergalactic medium. Following the underlying dark matter structure, the gas accretes onto galaxies, and fuels the star formation and black hole growth within them. In turn, the stars and supermassive black holes inject energy, momentum, radiation and metals (elements with atomic number larger than Helium) into the surrounding gas which impact the subsequent accretion and star formation.  When and how did the first galaxy form from the initial quantum perturbations? How do galaxies evolve throughout the cosmic history? What causes the galaxy population to be so diversified? And how do supermassive black holes form and co-evolve with the host galaxies? How did the radiation from first stars and black holes transform the intergalactic gas?  These are some of the central questions we want to address in modern cosmology. 
 
 Simulating such complex and non-linear systems numerically is a highly challenging task, one needs to not only cover a large dynamic range, but also model simultaneously many physical processes (gravity, hydrodynamics, turbulence, star formation, black hole formation,  radiation, magnetic field and perhaps cosmic rays etc.).  At the ITA, we simulate cosmological galaxy formation with state-of-the-art hydrodynamic codes and sophisticated models of physical processes, including the one that has successfully simulated the world’s first realistic Milky Way-like galaxy. We also developed a world-leading radiative transfer code to produce synthetic observations to confront simulations with the data. We have local expertise on observations of high-redshift galaxies using first-rate gravitational lensing data from the large Sloan Giant Arc Survey and the future Euclid satellite, as well as multi-wavelength data from major ground-based and space telescopes like HST, Keck, ALMA, GAIA and the upcoming JWST on galaxies at both early Universe and current epoch. It is the golden age for cosmology and extragalactic astronomy and students will be involved in exciting and fruitful projects at the ITA. 
 
 
-====== OK, sounds like fun, but is it actually possible to get a job with a
-degree in astrophysics?======
+===== OK, sounds like fun, but is it actually possible to get a job with a degree in astrophysics? =====
 
 Successful astrophysics students have learned a large variety
 techniques to attack abstract problems. These are skills that have
