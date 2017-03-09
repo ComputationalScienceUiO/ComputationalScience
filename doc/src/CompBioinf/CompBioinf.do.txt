@@ -5,6 +5,12 @@ DATE: Planned start: Fall 2018
 
 ===== Why Bioinformatics  =====
 
+If you have a Bachelor’s degree with a lot of computer science and mathematics and are interested in applying your knowledge on applications within the biological and medical sciences, a Master’s degree in Computational Science: Bioinformatics is for you. Here you will learn to develop and apply analysis methods on data about genomes, genes and proteins that are essential for research in molecular biology and molecular medicine.
+
+Technological advances have enabled us to detect and measure massive amounts of biological or medical data at unprecedented speed and affordability. The sequencing of the human genome and thousands of other organisms have paved the way for the identification of genetic variation at the level of individuals or even of single cells. Sequencing the DNA or RNA of tumour cells from a cancer patient may help diagnose the disease and find the best individual therapy. This is now starting to come into clinical practice, but requires efficient and robust methodology.
+
+Hardware developments have given us smaller, faster, cheaper and more power-efficient computers.
+The ever increasing number of processing cores available enables massive parallelisation but may require sophisticated programming to exploit well. We use advanced algorithms and data structures, as well as mathematical models and statistical analysis to design and implement methods and tools to process, analyse and visualise molecular data. In our aim for reproducible science we prefer to work with open source software and strive for the best software development practices.
 
 
 
@@ -34,6 +40,37 @@ avoding thereby the limitation of 10 ECTS per course only. Some of these courses
 === Courses ===
 Depending on specialization, the following courses that can be included as part of the compulsory 60 ECTS needed for a Master of Science degree are "described here":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/ProgramStructure/html/ProgramStructure-bs.html".
 
+Students have to choose among two of the following courses
+o CS-MATH1 (data analysis and machine learning)
+o CS-MATH2 (mathematical modelling)
+o CS-INF1 (High performance computing)
+
+The following courses are recommended for students in this study direction:
+o INF4490 Biologically inspired computing
+o INF4350 Introductory Course in Bioinformatics
+o INF5380 High-performance computing in bioinformatics
+
+These are also relevant, but perhaps even more relevant for the CS:Biosciences direction:
+
+o INF-BIO5121 High Throughput Sequencing technologies and bioinformatics analysis
+o MBV-INF4410 Bioinformatics for Molecular Biology
+
+
+
+=== New courses ===
+
+o CS-BIO1-INF: Computing for biosciences (INF4490?): INF4490 is the “Biologically inspired computing” course. It is about machine learning and artificial intelligence, classification etc. It teaches computational methods that are inspired by biological concepts like neural networks, genetic algorithms. It is highly relevant for this direction, but the new name is strongly misleading. There are also some statistics courses on prediction, classification and machine learning (e.g. STK2100, IMB9275) that should be appropriate for the CS:Bioinformatics students. Parts of those courses may be integrated. I think the course should be called just “machine learning”.
+
+o CS-BIO2-INF: Introductory bioinformatics (INF4350+MBV3070?). INF4350 and MBV3070 are two introductory courses in bioinformatics, designed for two different audiences and with quite a different focus. Basically, INF4350 is for computer science students that will learn how bioinformatics methods work and how to make new tools, while the MBV3070 course is for biology students who would like to know which tools to use and how to apply them. The INF4350 course fits well to the CS:Bioinformatics direction, while MBV3070 fits in the CS:Bioscience direction. I think the courses should be kept mainly as they are.
+
+o CS-BIO3-INF: Computational Bioinformatics (INF5380?). This is a course on how to use HPC facilities and parallel programming approaches to efficiently process large datasets. It fits well into the CS:Bioinformatics direction. Perhaps it could be extended with subjects from the courses INF3380 and INF5063/9063. I think the course should keep the name “High-Performance Computing in Bioinformatics”, or alternatively “Parallel computing in bioinformatics”
+
+o CS-BIO4-INF: Computational Physiology (INF5560?). I think this could be of interest for CS:Bioinformatics students, but fits best into the CS:Imaging and Biomedical computing or the CS:Biosciences directions.
+
+o CS-PHYS2: Computational Molecular dynamics in life science and materials science (new). I think this could be of interest for CS:Bioinformatics students, but also into several of the other directions.
+
+
+o CS-BIO5-INF Visualisation in bioinformatics (NEW) Perhaps a new course could be developed on visualisation of large biological datasets. How to present very large sets of data in a way that communicates efficiently. How to make interactive graphics, browsers etc that allow exploration of the data...
 
 
 === Graduate Certificates  ===
@@ -140,6 +177,19 @@ The learning outcomes are subdivided in three general categories, knowledge, ski
 
 By completing a Master of Science thesis, the candidate will have developed a critical understanding of the scientific methods which have been studied, has a better understanding of the scientific process per se as well as having developed perspectives for future work and how to verify and validate scientific results.
 
+In addition to the above more general learning outcomes, this study direction has some more specific learning outcomes. These are:
+o understand fundamental concepts in bioinformatics
+o understand basic concepts in molecular biology
+o have an overview of the most important methods and tools that are used in bioinformatics
+o understand how some of the basic methods for biological sequence analysis work
+o be capable of performing sequence analyses using existing tools
+o can argue for why methods need to be accurate and efficient
+o understand the principles of some algorithm classes like dynamic programming
+o understand machine learning concepts and methods for prediction and classification
+o be able to implement bioinformatics algorithms
+o understand how methods scale in terms of cpu and memory usage, and how this can be analysed
+o able to design tools that works efficiently on parallel computing hardware
+o able to process large datasets efficiently using parallellisation
 
 
 
@@ -161,11 +211,6 @@ Students at the University of Oslo may choose to "take parts of
 their degrees at a university abroad":"http://www.uio.no/studier/utveksling/".
 The University of Oslo has exchange agreements with other universities in different parts of the world. "The MN Faculty has additional exchange agreements with many universities abroad":"http://www.uio.no/studier/utveksling/avtaler/avtaleeiere/uio/".
 
-Students in this program have a number of interesting international
-exchange possibilities. The involved researchers have extensive
-collaborations with: _add text_
-
-
 
 
 ===== Career prospects =====
@@ -181,7 +226,8 @@ knowledge makes the students unique on the labor market.
 
 Career opportunities are many, from research institutes, universities
 and university colleges and a multitude of companies. Examples
-include IBM, Hydro, Statoil, and Telenor.  The program gives an
+include IBM, Hydro, Statoil, and Telenor, universities, hospitals, research institutes, biotech & pharmaceutical industry.
+  The program gives an
 excellent background for further studies, with a PhD as one possible
 goal.
 
@@ -189,6 +235,8 @@ The program has also a strong international element which allows students to
 gain important experience from international collaborations in
 science, with the opportunity to spend parts of the time spent on
 thesis work at research institutions abroad.
+
+
 
 
 
