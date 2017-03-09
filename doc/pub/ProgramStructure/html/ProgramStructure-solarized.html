@@ -180,7 +180,7 @@ In order to build a common study program and identity as a Computational Science
 Both courses have a workload of 10 ECTS each. These three <b>new courses</b> (final label to be determined, only tentative name here) are
 
 <ul>
-<li> <b>CS-MATH1</b>: <em>Data analysis and machine learning</em>, 10 ECTS)
+<li> <b>CS-MATH1-?</b>: <em>Data analysis and machine learning</em>, (10 ECTS)
 
 <ol type="a"></li>
  <li> Monte Carlo methods and statistical data analysis</li>
@@ -188,14 +188,29 @@ Both courses have a workload of 10 ECTS each. These three <b>new courses</b> (fi
  <li> Machine learning, including genetic algorithms and  neural networks</li>
 </ol>
 
-<li> <b>CS-MATH2</b>: <em>Mathematical modeling in Science</em>, 10 ECTS)
+</ul>
+
+Summary: This will be a new 10-credit course to be offered at MAT-NAT.
+The course is first and foremost designed as one basic ingredient of the
+curriculum for the "Master program in Computational Science". However, this
+course should also be useful for other students, as well as
+scientific staff at UiO, who want to learn about statistical data analysis, Monte Carlo methods and machine learning.
+
+<p>
+The content of this course focuses on three main topics
+
+<ol>
+<li> Monte Carlo methods, statistical data analysis, information theory  and Bayesian statistics. Methods like bootstrapping and blocking to analyse data will be discussed</li>
+<li> Optimization of data and algorithms for handling large data sets.</li> 
+<li> Machine learning with a focus on topics such as decision tree learning, maximum entropy model, support vector machine and kernel methods, graphic models, Bayesian learning methods, dimension reduction, neural networks and genetic algorithms.</li> 
+<li> <b>CS-MATH2</b>: <em>Mathematical modeling in Science</em>, (10 ECTS)
 
 <ol type="a"></li>
  <li> Central algorithms in mathematics applied to various fields in the Sciences</li>
  <li> Applications to physical systems</li>
 </ol>
 
-<li> <b>CS-INF1</b>: <em>High-Performance Computing and Numerical projects</em>, 10 ECTS
+<li> <b>CS-INF1</b>: <em>High-Performance Computing and Numerical projects</em>, (10 ECTS
 
 <ol type="a"></li>
  <li> This course teaches you to develop and structure large numerical projects, from code writing to  finalizing a report</li>
@@ -205,7 +220,84 @@ Both courses have a workload of 10 ECTS each. These three <b>new courses</b> (fi
  <li> Numerical methods from linear algebra will be discussed as well as examples from life science.</li>
 </ol>
 
+</ol>
+
+Summary: This will be a new 10-credit course to be offered at MAT-NAT.
+The course is first and foremost designed as one basic ingredient of the
+curriculum for the "Master program in Computational Science". However, this
+course should also be useful for other students, as well as
+scientific staff at UiO, who want to learn the fundamental knowledge
+about efficiently applying modern computer architectures to solving
+computation-heavy scientific problems.
+
+<p>
+Overlap: 5 credit points of overlap with INF3380.
+
+<p>
+Replacing INF3380 altogether? Probably yes.
+
+<p>
+Pre-requirement of students: basic knowledge about programming and numerical methods.
+
+<p>
+Learning outcome:
+
+<ol>
+<li> capable of effectively using laptop/desktop, as well as with thread-based parallelism and OpenMP programming, for solving simple numerical problems;</li>
+<li> capable of extending numerical calculations (that fit for a distributed memory model) to a computer cluster with the help of basic MPI programming;</li>
+<li> be informed about cutting-edge hardware (such as GPUs) and programming tools (such as OpenMP v4, OpenACC, CUDA, MPI v3);</li>
+<li> ready to learn more about advanced parallel computing.</li>
+</ol>
+
+Content: The course's content can be roughly divided into two big parts:
+
+<ul>
+ <li> How to efficiently use a laptop or desktop computer 
+
+<ol type="a"></li>
+ <li> a quick introduction of modern computer architecture (processor, memory, cache, registers, instruction-level parallelism, non-uniform access shared memory, compiler)</li>
+ <li> the realistically achievable performance of a computational problem (due to hardware limitations, independent of actual implementation)</li>
+ <li> good programming practices ("clean code")</li>
+ <li> implementation of typical numerical calculations with efficient data structures and clean coding (through examples and hands-on exercises)</li>
+ <li> hands-on encounters with compiling and debugging/profiling</li>
+ <li> vectorization of scientific code (this is one of the persistent topics for extracting the capability of modern processors)</li>
+ <li> other typical single-core performance optimizations (such as loop fusion, unrolling)</li>
+ <li> thread-based programming (OpenMP) that makes use of multiple cores while assuming a shared memory model</li>
+</ol>
+
+ <li> High-performance scientific computing beyond a laptop/desktop
+
+<ol type="a"></li>
+ <li> typical cluster architecture (interconnect as the new performance bottleneck, distributed memory as the new programming challenge)</li>
+ <li> explicit work and data partitioning that matches with the distributed memory scenario</li>
+ <li> collaboration in form of communication and synchronization, also the resulting scalability "curse"</li>
+ <li> basic issues of parallel program design: load balancing, reducing overhead of communication, speedup (and its limitation)</li>
+ <li> MPI programming (despite its many details and a steep learning curve, this standard will prevail in the foreseeable future, possibly also in the exascale era)</li>
+ <li> GPU as a computing accelerator and the streaming programming style (CUDA or OpenCL), because it is highly probable that many future supercomputers will use GPUs</li>
+ <li> Hybrid parallel computing (shared memory + distributed memory)</li>
+ <li> A peek into adanved programming tools (such as OpenMP v4, OpenACC, CUDA, MPI v3)</li>
+</ol>
+
 </ul>
+
+Mandatory assignment/project:
+
+<ol>
+<li> one mandatory assignment (a prescribed numerical problem, intended for using a shared-memory computer system)</li>
+<li> one project (with the possibility of configuring an individual project for each student, in the numerical problem, target parallel hardware, programming language)</li>
+</ol>
+
+Exam form:
+ This needs a thorough discussion. However, there are readily two possibilities: (1) a standard 4-hour written or digital exam (2) An oral presentation by each student of her/his project and follow-up questions. The second possibility will have a challenge for the teacher(s) when the number of students is large.
+
+<p>
+Grade: A-F or pass/no pass
+Needs a discussion together with the exam form.
+
+<p>
+Suggested textbook (the so-far best textbook):
+Introduction to High Performance Computing for Scientists and Engineers (Chapman &amp; Hall/CRC Computational Science) Paperback &#8211; 7 Jul 2010
+by Georg Hager  (Author), Gerhard Wellein (Author)
 
 <h2 id="___sec4">Revising existing courses </h2>
 Some of these courses could incorporate (or base themselves upon) existing ones. The courses here are organized according to their corresponding disciplines.  NOTE: These are suggestions for the discussions within each working group. 
