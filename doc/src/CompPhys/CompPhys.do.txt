@@ -14,16 +14,17 @@ simulations will increasingly dominate approaches to studying physical
 systems, in line with increased access to computational
 power. Possible applications are extensive, ranging from studying
 quantum physical systems in nanotechnology and the characteristics of
-new materials, to simulating cancer treatment, modelling climate and
-weather, oil flow through various rock strata, simulating natural
-disasters, physics statistics, plasma physics, semi-conductor
-technology, simulating quantum computers, and astrophysics. Research
+new materials, subatomic physics, from lattice quantum chromodynamics simulations to studies of stars and the synthesis of the elements, to oil flow through various rock strata, simulating natural
+disasters, computational statistical physics, plasma physics, semi-conductor
+technology and simulating quantum computers. Research
 includes both pure research projects as well as more applied research.
 
 Other possibilities for thesis work can be related to didactic
-questions and the use of computers in teaching. Such topics range from
+questions and the use of computing in teaching. Such topics range from
 developing numerical tasks for university or college level, or
-studying the use of computers in the school system.  Numerical
+studying the use of computing in high-school.  
+
+Numerical
 simulations of complex physical systems can replace and/or supplement
 results from extensive and expensive experiments. Our researchers work
 with a broad spectrum of problems related to such numerical
@@ -72,10 +73,10 @@ o FYS3150/4150 Computational Physics I
 o FYS4411/9411 Computational Physics II
 o FYS4460/9460 Computational Physics III
 o _CS-PHYS6_: Computational Materials Science (new, perhaps use elements from FYS-MENA4111)
- o _CS-MATH3_: Mathematical Foundations of data science (MAT-INF4110 and STK4021?)
- o _CS-MATH4_: Computational Linear Algebra (MAT-INF4130)
- o _CS-MATH5_: Computational differential equations (INF5620+INF5631)
- o _CS-PHYS2_: Computational Molecular dynamics in life science and materials science (new)
+o _CS-MATH3_: Mathematical Foundations of data science (MAT-INF4110 and STK4021?)
+o _CS-MATH4_: Computational Linear Algebra (MAT-INF4130)
+o _CS-MATH5_: Computational differential equations (INF5620+INF5631)
+o _CS-PHYS2_: Computational Molecular dynamics in life science and materials science (new)
 
 === Graduate Certificates  ===
 The program plans to offer graduate certificates in
