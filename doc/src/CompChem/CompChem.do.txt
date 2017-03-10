@@ -5,8 +5,8 @@ DATE: Planned start: Fall 2018
 
 ===== Why Chemistry =====
 
-
-
+Michele, se riesci a scrivere qualcosa di interessante qui, ti sarei immensamente grato!
+Se puoi dare un'occhiatina ai corsi, ancor meglio.
 
 ===== Structure and courses =====
 
@@ -33,6 +33,19 @@ avoding thereby the limitation of 10 ECTS per course only. Some of these courses
 
 === Courses ===
 Depending on specialization, the following courses that can be included as part of the compulsory 60 ECTS needed for a Master of Science degree are "described here":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/ProgramStructure/html/ProgramStructure-bs.html".
+
+Students have to choose among two of the following courses
+o CS-MATH1 (data analysis and machine learning)
+o CS-MATH2 (mathematical modelling)
+o CS-INF1 (High performance computing)
+
+The following courses are recommended for students in this study direction:
+o FYS3150/4150 Computational Physics I
+o FYS4411/9411 Computational Physics II  (Computational quantum mechanics with an emphasis on Quantum Monte Carlo, Hartree-Fock, Coupled Cluster, FCI)
+o FYS4460/9460 Computational Physics III  (Computational statistical mechanics with an emphasis on Molecular dynamics, percolation and critical phenomena) 
+o _CS-PHYS6_: Computational Materials Science (new, perhaps use elements from FYS-MENA4111)
+o _CS-PHYS2_: Computational Molecular dynamics in life science and materials science (new)
+
 
 
 
@@ -191,6 +204,7 @@ The program has also a strong international element which allows students to
 gain important experience from international collaborations in
 science, with the opportunity to spend parts of the time spent on
 thesis work at research institutions abroad.
+
 
 
 
