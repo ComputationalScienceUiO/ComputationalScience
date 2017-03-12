@@ -1,0 +1,88 @@
+TITLE: Computational Science course: Data Analysis and Machine Learning with Numerical Projects
+AUTHOR: Department of Geoscience, Departmement of Mathematics and Department of Physics, University of Oslo
+DATE: Planned start: Fall semester 2018
+
+
+===== Data analysis and machine learning: a new 10-ECTS course for both CS students and others =====
+
+A much needed course across disciplines.
+
+Pre-requirement: basic knowledge in programming & numerics. Required courses are the equivalents to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120 and at least one of the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx. 
+
+
+=== Learning outcomes ===
+
+* Learn about basis data analysis, Bayesian statistics, Monte Carlo methods, data optimization and machine learning
+* Capable of extending the acquired knowledge to other systems and cases
+* Have an understanding of central algorithms used in data analysis and machine learning
+* Basic knowledge of Bayesian statistics  and learning and common distributions
+* Knowledge of central aspects of Monte Carlo methods, Markov chains, Gibbs samplers and their possible applications, from numerical integration to simulation of stock markets.
+* Understanding of linear methods for regression and classification
+* Neural network, genetic algorithms  and Boltzmann machines
+* Numerical projects to illustrate the theory play a central role and students are expected to know modern programming languages like Python or C++. 
+
+===== The course has two central parts =====
+
+The course will have two main parts:
+o Statistical analysis and optimization of data
+o Machine learning
+
+Computational aspects play a central role and the students are expected to work on numerical projects which illustrate the theory. Some of the projects can be coordinated with the high-performance programming course (course code to be added). 
+
+=== Statistical analysis and optimization of data ===
+
+The following topics will be covered
+o Basic concepts, expectation values, variance, covariance, correlation functions and errors 
+o Simpler models, binomial distribution, the Poisson distribution, simple and multivariate normal distributions
+o Central elements of Bayesian statistics and modeling
+o Monte carlo methods, Markov chains, Metropolis-Hastings algorithm, ergodicity
+o Linear methods for regression and classification
+o Estimation of errors using blocking, bootstrapping and jackknife methods
+o Practical optimization using Singular-value decomposition and least squares for parameterizing data
+
+All topics will be supported by examples, hands-on exercises and project work.
+===  Machine learning ===
+
+The following topics will be covered
+o Gaussian and Dirichlet processes
+o Boltzmann machines
+o Neural networks
+o Genetic algorithms
+
+All topics will be supported by examples, hands-on exercises and project work.
+
+
+=== Practicalities ===
+
+o Four lectures per week, Fall semester, 10 ECTS
+o Four hours of laboratory sessions for work on computational projects
+o Three projects which are graded and count 60% of the final grade
+o A selected number of weekly assignments which count  10% of the final grade
+o Final written exam which counts 30% of the final grade
+o Organized by the Departments of Geoscience, Mathematics and Physics
+o Possible teachers first time: John Burkhart, Morten Hjorth-Jensen and XXX
+o The course is part of the CS Master of Science program, but is open to other bachelor and Master of Science students at the University of Oslo. 
+o Grading scale: Grades are awarded on a scale from A to F, where A is the best grade and F is a fail
+o The course will be offered as a 4XXX and 3XXX course.
+
+=== Possible textbooks ===
+
+
+_General learning book on statistical analysis_:
+o "Christian P. Robert and George Casella, Monte Carlo Statistical Methods, Springer:"http://www.springer.com/statistics/statistical+theory+and+methods/book/978-0-387-21239-5"
+o "Peter D. Hoff, A first course in Bayesian statistical models, Springer":"http://www.springer.com/gp/book/9780387922997"
+
+General Machine Learning Books__:
+o "Kevin Murphy, Machine Learning: A Probabilistic Perspective, MIT Press":"http://www.cs.ubc.ca/~murphyk/MLbook/"
+o "Christopher M. Bishop, Pattern Recognition and Machine Learning, Springer":"http://research.microsoft.com/en-us/um/people/cmbishop/prml/"
+o "David J.C. MacKay, Information Theory, Inference, and Learning Algorithms, Cambridge University Press":"http://www.inference.phy.cam.ac.uk/itprnn/book.html"
+o "Trevor Hastie, Robert Tibshirani, and Jerome Friedman, The Elements of Statistical Learning, Springer":"http://www-stat.stanford.edu/~tibs/ElemStatLearn/"
+o "David Barber, Bayesian Reasoning and Machine Learning, Cambridge University Press":"http://www.cs.ucl.ac.uk/staff/d.barber/brml/"
+
+
+
+
+
+
+
+

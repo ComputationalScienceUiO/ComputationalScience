@@ -1,0 +1,79 @@
+TITLE:  INFXXXX High-Performance Computing and Numerical Projects  
+AUTHOR: Department of Informatics, University of Oslo
+DATE: Planned start: Fall semester 2018
+
+
+===== High-Performance Computing and Numerical Projects: a new 10-ECTS course for both CS students and others =====
+
+This will be a new 10-credit course to be offered at MAT-NAT.
+The course is first and foremost designed as one basic ingredient of the
+curriculum for the "Master program in Computational Science". However, this
+course should also be useful for other students, as well as
+scientific staff at UiO, who want to learn the fundamental knowledge
+about efficiently applying modern computer architectures to solving
+computation-heavy scientific problems.
+
+Overlap: 5 credit points of overlap with INF3380.
+
+
+Pre-requirement: basic knowledge in programming & numerics. Required courses are the equivalents to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120 and at least one of the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx. 
+
+
+=== Learning outcomes ===
+
+o Capable of effectively using laptop/desktop
+o Capable of extending suitable numerical code to computer clusters
+o Be informed about cutting-edge non-CPU hardware
+o Ready to learn about more advanced parallel computing
+
+
+===== The course has two central parts =====
+
+The course will have two main parts:
+o Effective use of a laptop PC or desktop computer
+o HPC beyond a laptop/desktop
+
+Computational aspects play a central role and the students are expected to work on numerical projects which illustrate the theory. Some of the projects can be coordinated with the Data analysis and machine learning  course (course code to be added). 
+
+=== Effective use of a laptop PC or desktop computer ===
+
+o Quick overview of modern computer hardware
+o Simple performance modeling (realistic performance upper bound)
+o Good programming practices – “clean code”
+o Data structure and array-based programming
+o Single-core optimizations (loop optimization, vectorization, etc.)
+o Thread-based multicore programming via OpenMP
+
+All topics will be supported by examples, hands-on exercises and project work.
+
+===  HPC beyond a laptop/desktop ===
+
+o Typical cluster architecture and H/W performance characteristics
+o Parallelism, work/data partitioning, collaboration
+o Basic issues of parallel program design
+o MPI programming
+o Hybrid parallel programming (MPI+ OpenMP)
+o A peek into non-CPU hardware: GPU
+
+
+=== Practicalities ===
+
+o Four lectures per week, Fall semester, 10 ECTS
+o XXX hours of laboratory sessions for work on computational projects
+o One mandatory assignment (a prescribed numerical problem, intended for using a shared-memory computer system)
+o one project (with the possibility of configuring an individual project for each student, in the numerical problem, target parallel hardware, programming language)
+o A selected number of weekly assignments?
+o Final exam which counts xxx% of the final grade. This needs a thorough discussion. However, there are readily two possibilities: (1) a standard 4-hour written or digital exam (2) An oral presentation by each student of her/his project and follow-up questions. The second possibility will have a challenge for the teacher(s) when the number of students is large.
+o Organized by the Departments of Informatics
+o Possible teachers first time: Xing Cai
+o The course is part of the CS Master of Science program, but is open to other bachelor and Master of Science students at the University of Oslo. 
+o Grading scale: Grades are awarded on a scale from A to F, where A is the best grade and F is a fail
+o The course will be offered as a 4XXX and 3XXX course.
+
+
+
+=== Possible textbooks ===
+
+o Georg Hager and Gerhard Wellein, Introduction to High Performance Computing for Scientists and Engineers (Chapman & Hall/CRC Computational Science, 2010)
+
+
