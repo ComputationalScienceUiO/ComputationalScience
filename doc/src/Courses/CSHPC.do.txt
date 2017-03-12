@@ -1,88 +1,79 @@
-TITLE: Computational Science course: Data Analysis and Machine Learning with Numerical Projects
-AUTHOR: Department of Geoscience, Departmement of Mathematics and Department of Physics, University of Oslo
+TITLE:  INFXXXX High-Performance Computing and Numerical Projects  
+AUTHOR: Department of Informatics, University of Oslo
 DATE: Planned start: Fall semester 2018
 
 
-===== Data analysis and machine learning: a new 10-ECTS course for both CS students and others =====
+===== High-Performance Computing and Numerical Projects: a new 10-ECTS course for both CS students and others =====
 
-A much needed course across disciplines.
+This will be a new 10-credit course to be offered at MAT-NAT.
+The course is first and foremost designed as one basic ingredient of the
+curriculum for the "Master program in Computational Science". However, this
+course should also be useful for other students, as well as
+scientific staff at UiO, who want to learn the fundamental knowledge
+about efficiently applying modern computer architectures to solving
+computation-heavy scientific problems.
+
+Overlap: 5 credit points of overlap with INF3380.
+
 
 Pre-requirement: basic knowledge in programming & numerics. Required courses are the equivalents to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120 and at least one of the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx. 
 
 
 === Learning outcomes ===
 
-* Learn about basis data analysis, Bayesian statistics, Monte Carlo methods, data optimization and machine learning
-* Capable of extending the acquired knowledge to other systems and cases
-* Have an understanding of central algorithms used in data analysis and machine learning
-* Basic knowledge of Bayesian statistics  and learning and common distributions
-* Knowledge of central aspects of Monte Carlo methods, Markov chains, Gibbs samplers and their possible applications, from numerical integration to simulation of stock markets.
-* Understanding of linear methods for regression and classification
-* Neural network, genetic algorithms  and Boltzmann machines
-* Numerical projects to illustrate the theory play a central role and students are expected to know modern programming languages like Python or C++. 
+o Capable of effectively using laptop/desktop
+o Capable of extending suitable numerical code to computer clusters
+o Be informed about cutting-edge non-CPU hardware
+o Ready to learn about more advanced parallel computing
+
 
 ===== The course has two central parts =====
 
 The course will have two main parts:
-o Statistical analysis and optimization of data
-o Machine learning
+o Effective use of a laptop PC or desktop computer
+o HPC beyond a laptop/desktop
 
-Computational aspects play a central role and the students are expected to work on numerical projects which illustrate the theory. Some of the projects can be coordinated with the high-performance programming course (course code to be added). 
+Computational aspects play a central role and the students are expected to work on numerical projects which illustrate the theory. Some of the projects can be coordinated with the Data analysis and machine learning  course (course code to be added). 
 
-=== Statistical analysis and optimization of data ===
+=== Effective use of a laptop PC or desktop computer ===
 
-The following topics will be covered
-o Basic concepts, expectation values, variance, covariance, correlation functions and errors 
-o Simpler models, binomial distribution, the Poisson distribution, simple and multivariate normal distributions
-o Central elements of Bayesian statistics and modeling
-o Monte carlo methods, Markov chains, Metropolis-Hastings algorithm, ergodicity
-o Linear methods for regression and classification
-o Estimation of errors using blocking, bootstrapping and jackknife methods
-o Practical optimization using Singular-value decomposition and least squares for parameterizing data
+o Quick overview of modern computer hardware
+o Simple performance modeling (realistic performance upper bound)
+o Good programming practices – “clean code”
+o Data structure and array-based programming
+o Single-core optimizations (loop optimization, vectorization, etc.)
+o Thread-based multicore programming via OpenMP
 
 All topics will be supported by examples, hands-on exercises and project work.
-===  Machine learning ===
 
-The following topics will be covered
-o Gaussian and Dirichlet processes
-o Boltzmann machines
-o Neural networks
-o Genetic algorithms
+===  HPC beyond a laptop/desktop ===
 
-All topics will be supported by examples, hands-on exercises and project work.
+o Typical cluster architecture and H/W performance characteristics
+o Parallelism, work/data partitioning, collaboration
+o Basic issues of parallel program design
+o MPI programming
+o Hybrid parallel programming (MPI+ OpenMP)
+o A peek into non-CPU hardware: GPU
 
 
 === Practicalities ===
 
 o Four lectures per week, Fall semester, 10 ECTS
-o Four hours of laboratory sessions for work on computational projects
-o Three projects which are graded and count 60% of the final grade
-o A selected number of weekly assignments which count  10% of the final grade
-o Final written exam which counts 30% of the final grade
-o Organized by the Departments of Geoscience, Mathematics and Physics
-o Possible teachers first time: John Burkhart, Morten Hjorth-Jensen and XXX
+o XXX hours of laboratory sessions for work on computational projects
+o One mandatory assignment (a prescribed numerical problem, intended for using a shared-memory computer system)
+o one project (with the possibility of configuring an individual project for each student, in the numerical problem, target parallel hardware, programming language)
+o A selected number of weekly assignments?
+o Final exam which counts xxx% of the final grade. This needs a thorough discussion. However, there are readily two possibilities: (1) a standard 4-hour written or digital exam (2) An oral presentation by each student of her/his project and follow-up questions. The second possibility will have a challenge for the teacher(s) when the number of students is large.
+o Organized by the Departments of Informatics
+o Possible teachers first time: Xing Cai
 o The course is part of the CS Master of Science program, but is open to other bachelor and Master of Science students at the University of Oslo. 
 o Grading scale: Grades are awarded on a scale from A to F, where A is the best grade and F is a fail
 o The course will be offered as a 4XXX and 3XXX course.
 
+
+
 === Possible textbooks ===
 
-
-_General learning book on statistical analysis_:
-o "Christian P. Robert and George Casella, Monte Carlo Statistical Methods, Springer:"http://www.springer.com/statistics/statistical+theory+and+methods/book/978-0-387-21239-5"
-o "Peter D. Hoff, A first course in Bayesian statistical models, Springer":"http://www.springer.com/gp/book/9780387922997"
-
-General Machine Learning Books__:
-o "Kevin Murphy, Machine Learning: A Probabilistic Perspective, MIT Press":"http://www.cs.ubc.ca/~murphyk/MLbook/"
-o "Christopher M. Bishop, Pattern Recognition and Machine Learning, Springer":"http://research.microsoft.com/en-us/um/people/cmbishop/prml/"
-o "David J.C. MacKay, Information Theory, Inference, and Learning Algorithms, Cambridge University Press":"http://www.inference.phy.cam.ac.uk/itprnn/book.html"
-o "Trevor Hastie, Robert Tibshirani, and Jerome Friedman, The Elements of Statistical Learning, Springer":"http://www-stat.stanford.edu/~tibs/ElemStatLearn/"
-o "David Barber, Bayesian Reasoning and Machine Learning, Cambridge University Press":"http://www.cs.ucl.ac.uk/staff/d.barber/brml/"
-
-
-
-
-
-
+o Georg Hager and Gerhard Wellein, Introduction to High Performance Computing for Scientists and Engineers (Chapman & Hall/CRC Computational Science, 2010)
 
 
