@@ -5,21 +5,44 @@ DATE: Planned start: Fall semester 2018
 
 ===== Data analysis and machine learning: a new 10-ECTS course for both CS students and others =====
 
-A much needed course across disciplines.
+=== Course content ===
 
-Pre-requirement: basic knowledge in programming and numerics. Required courses are the equivalents to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120 and at least one of the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx. 
+Probability theory and statistical methods play a central role in data analysis. Nowadays we are
+surrounded by huge amounts of data. For example, there are about one trillion web pages; more than one
+hour of video is uploaded to YouTube every second, amounting to 10 years of content every
+day; the genomes of 1000s of people, each of which has a length of $3.8\times 10^9$ base pairs, have
+been sequenced by various labs and so on.
+This deluge of data calls for automated methods of data analysis, which is what machine
+learning provides. In this course the approach is to define machine learning as a set of methods that can
+automatically detect patterns in data, and then use the uncovered patterns to predict future
+data, or to perform other kinds of decision making under uncertainty. Since many of these problems can be studied using
+tools of probability theory, the aim of this course is to expose you to central methods in probability theory linked with machine learning.
+
+This courses covers thus topics like Monte Carlo methods and Markov chains, Bayesian statistics, error estimates, various linear methods, optimization of data and error analysis and central algorithms in machine learning.
+The course has several numerical project and numerical exercises that are meant to illustrate the theory
+
 
 
 ===== Learning outcomes =====
 
+The course introduces a variety of central algorithms and methods for professional studies of data analysis and machine learning. The course is project based and through the various projects, normally three, the participants will be exposed to fundamental research problems in these fields, with the aim to reproduce state of the art scientific results. The students will learn to develop and structure large codes for studying these systems, get aquainted with computing facilities and learn to handle large scientific projects. A good scientific and ethical conduct is emphasized throughout the course. More specifically, after this course you will
+
 * Learn about basis data analysis, Bayesian statistics, Monte Carlo methods, data optimization and machine learning
-* Capable of extending the acquired knowledge to other systems and cases
+* Be capable of extending the acquired knowledge to other systems and cases
 * Have an understanding of central algorithms used in data analysis and machine learning
-* Basic knowledge of Bayesian statistics  and learning and common distributions
-* Knowledge of central aspects of Monte Carlo methods, Markov chains, Gibbs samplers and their possible applications, from numerical integration to simulation of stock markets.
-* Understanding of linear methods for regression and classification
-* Neural network, genetic algorithms  and Boltzmann machines
-* Numerical projects to illustrate the theory play a central role and students are expected to know modern programming languages like Python or C++. 
+* Have a basic knowledge of Bayesian statistics  and learning and common distributions
+* Gain knowledge of central aspects of Monte Carlo methods, Markov chains, Gibbs samplers and their possible applications, from numerical integration to simulation of stock markets.
+* Understand linear methods for regression and classification
+* Learn about neural network, genetic algorithms  and Boltzmann machines
+* Work on numerical projects to illustrate the theory. The projects  play a central role and students are expected to know modern programming languages like Python or C++. 
+
+
+
+===== Prerequisites =====
+
+Basic knowledge in programming and numerics. Required courses are the equivalents to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120 and at least one of the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx. 
+
+There are no overlapping courses. 
 
 ===== The course has two central parts =====
 
