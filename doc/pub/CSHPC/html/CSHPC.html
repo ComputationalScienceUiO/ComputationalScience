@@ -43,15 +43,17 @@ div { text-align: justify; text-justify: inter-word; }
                2,
                None,
                '___sec0'),
-              ('Learning outcomes', 3, None, '___sec1'),
-              ('The course has two central parts', 2, None, '___sec2'),
+              ('Course content', 3, None, '___sec1'),
+              ('Learning outcomes', 3, None, '___sec2'),
+              ('Prerequisites', 2, None, '___sec3'),
+              ('The course has two central parts', 2, None, '___sec4'),
               ('Effective use of a laptop PC or desktop computer',
                3,
                None,
-               '___sec3'),
-              ('HPC beyond a laptop/desktop', 3, None, '___sec4'),
-              ('Practicalities', 3, None, '___sec5'),
-              ('Possible textbooks', 3, None, '___sec6')]}
+               '___sec5'),
+              ('HPC beyond a laptop/desktop', 3, None, '___sec6'),
+              ('Practicalities', 3, None, '___sec7'),
+              ('Possible textbooks', 3, None, '___sec8')]}
 end of tocinfo -->
 
 <body>
@@ -80,6 +82,8 @@ end of tocinfo -->
 
 <h2 id="___sec0">High-Performance Computing and Numerical Projects: a new 10-ECTS course for both CS students and others </h2>
 
+<h3 id="___sec1">Course content </h3>
+
 <p>
 This will be a new 10-credit course to be offered at MAT-NAT.
 The course is first and foremost designed as one basic ingredient of the
@@ -88,23 +92,29 @@ course should also be useful for other students, as well as
 scientific staff at UiO, who want to learn the fundamental knowledge
 about efficiently applying modern computer architectures to solving
 computation-heavy scientific problems.
+The course teaches the fundamental concepts in parallel programming, such as work load division, communication, speedup and typical parallel architectures. The most basic communication commands in MPI and programming directives in OpenMP will be taught. Use of multicore PCs and PC clusters will also be lecture, together with a brief description about programming GPUs for parallel computing.
+
+<h3 id="___sec2">Learning outcomes </h3>
 
 <p>
-Overlap: 5 credit points of overlap with INF3380.
-
-<p>
-Pre-requirement: basic knowledge in programming &amp; numerics. Required courses are the equivalents to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120 and at least one of the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx.
-
-<h3 id="___sec1">Learning outcomes </h3>
+The course introduces a variety of central algorithms and methods for professional studies in high-performance computing. The course is project based and through the various projects, the participants will be exposed to fundamental research problems in the field of high-performance computing, with the aim to reproduce state of the art scientific results. The students will learn to develop and structure large codes for studying these systems, get aquainted with computing facilities and learn to handle large scientific projects. A good scientific and ethical conduct is emphasized throughout the course. More specifically, after this course you will
 
 <ol>
-<li> Capable of effectively using laptop/desktop</li>
-<li> Capable of extending suitable numerical code to computer clusters</li>
+<li> Be capable of effectively using laptop/desktop</li>
+<li> be Capable of extending suitable numerical code to computer clusters</li>
 <li> Be informed about cutting-edge non-CPU hardware</li>
-<li> Ready to learn about more advanced parallel computing</li>
+<li> Be ready to learn about more advanced parallel computing</li>
 </ol>
 
-<h2 id="___sec2">The course has two central parts </h2>
+<h2 id="___sec3">Prerequisites </h2>
+
+<p>
+Basic knowledge in programming and numerics. Required courses are the equivalents to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120 and at least one of the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx.
+
+<p>
+Overlap: 5 ECTS overlap with INF3380.
+
+<h2 id="___sec4">The course has two central parts </h2>
 
 <p>
 The course will have two main parts:
@@ -116,7 +126,7 @@ The course will have two main parts:
 
 Computational aspects play a central role and the students are expected to work on numerical projects which illustrate the theory. Some of the projects can be coordinated with the Data analysis and machine learning  course (course code to be added).
 
-<h3 id="___sec3">Effective use of a laptop PC or desktop computer </h3>
+<h3 id="___sec5">Effective use of a laptop PC or desktop computer </h3>
 
 <ol>
 <li> Quick overview of modern computer hardware</li>
@@ -129,7 +139,7 @@ Computational aspects play a central role and the students are expected to work 
 
 All topics will be supported by examples, hands-on exercises and project work.
 
-<h3 id="___sec4">HPC beyond a laptop/desktop </h3>
+<h3 id="___sec6">HPC beyond a laptop/desktop </h3>
 
 <ol>
 <li> Typical cluster architecture and H/W performance characteristics</li>
@@ -140,7 +150,7 @@ All topics will be supported by examples, hands-on exercises and project work.
 <li> A peek into non-CPU hardware: GPU</li>
 </ol>
 
-<h3 id="___sec5">Practicalities </h3>
+<h3 id="___sec7">Practicalities </h3>
 
 <ol>
 <li> Four lectures per week, Fall semester, 10 ECTS</li>
@@ -156,7 +166,7 @@ All topics will be supported by examples, hands-on exercises and project work.
 <li> The course will be offered as a 4XXX and 3XXX course.</li>
 </ol>
 
-<h3 id="___sec6">Possible textbooks </h3>
+<h3 id="___sec8">Possible textbooks </h3>
 
 <ol>
 <li> Georg Hager and Gerhard Wellein, Introduction to High Performance Computing for Scientists and Engineers (Chapman &amp; Hall/CRC Computational Science, 2010)</li>
