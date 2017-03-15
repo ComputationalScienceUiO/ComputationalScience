@@ -29,7 +29,7 @@ The course has several numerical projects and numerical exercises that are meant
 The course introduces a variety of central algorithms and methods
 essential for studies of data analysis and machine learning. The course is project based and through the various projects, normally three, the students will be exposed to fundamental research problems in these fields, with the aim to reproduce state of the art scientific results. The students will learn to develop and structure large codes for studying these systems, get acquainted with computing facilities and learn to handle large scientific projects. A good scientific and ethical conduct is emphasized throughout the course. More specifically, after this course you will
 
-* Learn about basis data analysis, Bayesian statistics, Monte Carlo methods, data optimization and machine learning;
+* Learn about basic data analysis, Bayesian statistics, Monte Carlo methods, data optimization and machine learning;
 * Be capable of extending the acquired knowledge to other systems and cases;
 * Have an understanding of central algorithms used in data analysis and machine learning;
 * Have a basic knowledge of Bayesian statistics  and learning and common distributions;
@@ -89,7 +89,7 @@ o Final written exam which counts $30\%$ of the final grade;
 o Organized by the Departments of Geoscience, Mathematics and Physics;
 o Possible teachers first time: John Burkhart, Morten Hjorth-Jensen and XXX;
 o The course is part of the CS Master of Science program, but is open to other bachelor and Master of Science students at the University of Oslo;
-o Grading scale: Grades are awarded on a scale from A t* F, where A is the best grade and F is a fail;
+o Grading scale: Grades are awarded on a scale from A to F, where A is the best grade and F is a fail;
 o The course will be offered as a 4XXX and 3XXX course.
 
 ===== Possible textbooks =====
