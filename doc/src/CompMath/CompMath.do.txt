@@ -5,7 +5,11 @@ DATE: Planned start: Fall 2018
 
 ===== Why Applied Mathematics and Risk Analysis =====
 
+ Er du interessert i matematiske metoder og algoritmer, hvor de kommer fra, hvordan de kan programmeres og hva de kan brukes til? I denne studieretningen er dette hovedfokus, gjerne kombinert med anvendelser av algoritmene. Anvendelsene involverer ofte store datasett og kan dreie seg om å estimere risiko i store prosjekter, trekke ut nyttig informasjon fra datasettet, finne optimale strategier eller representere datasettet på en kompakt og hensiktsmessig måte, for eksempel som geometriske objekter eller bilder. 
 
+Dette kan omfatte formulering av matematiske modeller, konstruksjon av numeriske algoritmer, programvareutvikling, visualisering/grafikk samt vurdering av beregningsresultatenes kvalitet. Aktuelle prosjekter kan ta for seg alle disse stegene i denne prosessen eller særlig fokusere på noen av dem.
+
+Gruppen for beregningsorientert matematikk og gruppen for risikoanalyse ved Matematisk institutt sogner til denne studieretningen.
 
 
 ===== Structure and courses =====
@@ -34,6 +38,24 @@ avoding thereby the limitation of 10 ECTS per course only. Some of these courses
 === Courses ===
 Depending on specialization, the following courses that can be included as part of the compulsory 60 ECTS needed for a Master of Science degree are "described here":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/ProgramStructure/html/ProgramStructure-bs.html".
 
+
+Relevante masterkurs for anvendt matematikk:
+
+  o  MAT-INF4110 - Matematisk optimering
+  o  MAT-INF4130 - Numerisk lineær algebra
+  o  MAT-INF4170 - Splinemetoder
+
+
+Mange andre emner er også relevante, for eksempel bilde- og signalbehandling og pde-emnene på Ifi (Simula).
+
+Relevante masterkurs for risikoanalyse:
+
+  o  STK4400 - Risiko- og pålitelighetsanalyse
+  o  STK4405 - Elementær innføring i risiko- og pålitelighetsanalyse
+  o  MAT-INF4110 Matematisk optimering (også tatt med over)
+
+
+Listen kan evt. utvides med flere masterkurs i finans, forsikring og statistikk
 
 
 === Graduate Certificates  ===
