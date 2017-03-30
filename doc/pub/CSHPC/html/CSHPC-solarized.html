@@ -6,9 +6,9 @@ Automatically generated HTML file from DocOnce source
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="DocOnce: https://github.com/hplgit/doconce/" />
-<meta name="description" content="INFXXXX High-Performance Computing and Numerical Projects">
+<meta name="description" content="High-Performance Computing and Numerical Projects">
 
-<title>INFXXXX High-Performance Computing and Numerical Projects</title>
+<title>High-Performance Computing and Numerical Projects</title>
 
 
 <link href="https://cdn.rawgit.com/hplgit/doconce/master/bundled/html_styles/style_solarized_box/css/solarized_light_code.css" rel="stylesheet" type="text/css" title="light"/>
@@ -58,7 +58,7 @@ end of tocinfo -->
 
 
 
-<center><h1>INFXXXX High-Performance Computing and Numerical Projects  </h1></center>  <!-- document title -->
+<center><h1>High-Performance Computing and Numerical Projects  </h1></center>  <!-- document title -->
 
 <p>
 <!-- author(s): Department of Informatics, University of Oslo -->
@@ -80,26 +80,31 @@ end of tocinfo -->
 <h3 id="___sec1">Course content </h3>
 
 <p>
-This will be a new 10-credit course to be offered at MAT-NAT.
-The course is first and foremost designed as one basic ingredient of the
-curriculum for the "Master program in Computational Science". However, this
-course should also be useful for other students, as well as
+Effective use of modern computing systems, spanning from laptop PCs to
+ supercomputers, is essential for the computational science.
+The course teaches the fundamental concepts in parallel programming
+and high-performance computing, such as work load division,
+communication, speedup, code optimization and typical parallel architectures. The most basic communication commands in MPI and programming directives in OpenMP will be taught. Use of multicore PCs and PC clusters will also be lectured, together with a brief description about programming GPUs for parallel computing.
+In addtion to being one basic ingredient of the
+curriculum for the "Master program in Computational Science", this
+course can also be useful for other students, as well as
 scientific staff at UiO, who want to learn the fundamental knowledge
 about efficiently applying modern computer architectures to solving
 computation-heavy scientific problems.
-The course teaches the fundamental concepts in parallel programming, such as work load division, communication, speedup and typical parallel architectures. The most basic communication commands in MPI and programming directives in OpenMP will be taught. Use of multicore PCs and PC clusters will also be lecture, together with a brief description about programming GPUs for parallel computing.
 
 <h3 id="___sec2">Learning outcomes </h3>
 
 <p>
-The course introduces a variety of central algorithms and methods for professional studies in high-performance computing. The course is project based and through the various projects, the participants will be exposed to fundamental research problems in the field of high-performance computing, with the aim to reproduce state of the art scientific results. The students will learn to develop and structure large codes for studying these systems, get aquainted with computing facilities and learn to handle large scientific projects. A good scientific and ethical conduct is emphasized throughout the course. More specifically, after this course you will
+The course introduces a variety of central algorithms and methods
+essential for studies in high-performance computing. Through
+hands-on exercises and projects, the students will be exposed to fundamental research problems in the field of high-performance computing, with the aim to reproduce state of the art scientific results. The students will learn to develop and structure large codes for studying these systems, get acquainted with computing facilities and learn to handle large scientific projects. A good scientific and ethical conduct is emphasized throughout the course. More specifically, after this course you will
 
-<ol>
-<li> Be capable of effectively using laptop/desktop</li>
-<li> be Capable of extending suitable numerical code to computer clusters</li>
-<li> Be informed about cutting-edge non-CPU hardware</li>
-<li> Be ready to learn about more advanced parallel computing</li>
-</ol>
+<ul>
+<li> Be capable of effectively using laptop/desktop computers;</li>
+<li> Be capable of extending suitable numerical code to computer clusters;</li>
+<li> Be informed about cutting-edge non-CPU hardware;</li>
+<li> Be ready to learn about more advanced parallel computing.</li>
+</ul>
 
 <h2 id="___sec3">Prerequisites </h2>
 
@@ -111,61 +116,61 @@ Overlap: 5 ECTS overlap with INF3380.
 
 <h2 id="___sec4">The course has two central parts </h2>
 
-<p>
-The course will have two main parts:
-
 <ol>
 <li> Effective use of a laptop PC or desktop computer</li>
 <li> HPC beyond a laptop/desktop</li>
 </ol>
 
-Computational aspects play a central role and the students are expected to work on numerical projects which illustrate the theory. Some of the projects can be coordinated with the Data analysis and machine learning  course (course code to be added).
-
 <h3 id="___sec5">Effective use of a laptop PC or desktop computer </h3>
 
-<ol>
-<li> Quick overview of modern computer hardware</li>
-<li> Simple performance modeling (realistic performance upper bound)</li>
-<li> Good programming practices &#8211; &#8220;clean code&#8221;</li>
-<li> Data structure and array-based programming</li>
-<li> Single-core optimizations (loop optimization, vectorization, etc.)</li>
-<li> Thread-based multicore programming via OpenMP</li>
-</ol>
-
-All topics will be supported by examples, hands-on exercises and project work.
+<ul>
+<li> Quick overview of modern computer hardware;</li>
+<li> Simple performance modeling (realistic performance upper bound);</li>
+<li> Good programming practices &#8211; &#8220;clean code&#8221;;</li>
+<li> Data structure and array-based programming;</li>
+<li> Single-core optimizations (loop optimization, vectorization, etc.);</li>
+<li> Thread-based multicore programming via OpenMP.</li>
+</ul>
 
 <h3 id="___sec6">HPC beyond a laptop/desktop </h3>
 
-<ol>
-<li> Typical cluster architecture and H/W performance characteristics</li>
-<li> Parallelism, work/data partitioning, collaboration</li>
-<li> Basic issues of parallel program design</li>
-<li> MPI programming</li>
-<li> Hybrid parallel programming (MPI+ OpenMP)</li>
-<li> A peek into non-CPU hardware: GPU</li>
-</ol>
+<ul>
+<li> Typical cluster architecture and H/W performance characteristics;</li>
+<li> Parallelism, work/data partitioning, collaboration;</li>
+<li> Basic issues of parallel program design;</li>
+<li> MPI programming;</li>
+<li> Hybrid parallel programming (MPI+ OpenMP);</li>
+<li> A peek into non-CPU hardware: GPU.</li>
+</ul>
+
+All the above topics will be supported by examples, hands-on exercises and project work.
+
+<p>
+Computational aspects play a central role and the students are
+expected to work on numerical examples and projects which illustrate
+the theory and algorithms. Some of the projects can be coordinated with the Data analysis and machine learning course (course code to be added).
 
 <h3 id="___sec7">Practicalities </h3>
 
 <ol>
-<li> Four lectures per week, Fall semester, 10 ECTS</li>
-<li> XXX hours of laboratory sessions for work on computational projects</li>
-<li> One mandatory assignment (a prescribed numerical problem, intended for using a shared-memory computer system)</li>
-<li> one project (with the possibility of configuring an individual project for each student, in the numerical problem, target parallel hardware, programming language)</li>
-<li> A selected number of weekly assignments?</li>
+<li> Four lectures per week, Fall semester, 10 ECTS;</li>
+<li> XXX hours of laboratory sessions for work on hands-on exercises and/or computational projects;</li>
+<li> One mandatory assignment (a prescribed numerical problem, intended for using a shared-memory computer system);</li>
+<li> One project (with the possibility of configuring an individual project for each student, in the numerical problem, target parallel hardware, programming language);</li>
+<li> Weekly small assignments;</li>
 <li> Final exam which counts xxx% of the final grade. This needs a thorough discussion. However, there are readily two possibilities: (1) a standard 4-hour written or digital exam (2) An oral presentation by each student of her/his project and follow-up questions. The second possibility will have a challenge for the teacher(s) when the number of students is large.</li>
-<li> Organized by the Departments of Informatics</li>
-<li> Possible teachers first time: Xing Cai</li>
-<li> The course is part of the CS Master of Science program, but is open to other bachelor and Master of Science students at the University of Oslo.</li> 
-<li> Grading scale: Grades are awarded on a scale from A to F, where A is the best grade and F is a fail</li>
+<li> Organized by the Departments of Informatics;</li>
+<li> Possible teacher first time: Xing Cai;</li>
+<li> The course is part of the CS Master of Science program, but is open to other bachelor and Master of Science students at the University of Oslo;</li>
+<li> Grading scale: Grades are awarded on a scale from A to F, where A is the best grade and F is a fail;</li>
 <li> The course will be offered as a 4XXX and 3XXX course.</li>
 </ol>
 
 <h3 id="___sec8">Possible textbooks </h3>
 
-<ol>
+<ul>
 <li> Georg Hager and Gerhard Wellein, Introduction to High Performance Computing for Scientists and Engineers (Chapman &amp; Hall/CRC Computational Science, 2010)</li>
-</ol>
+</ul>
 
 
 <!-- ------------------- end of main content --------------- -->

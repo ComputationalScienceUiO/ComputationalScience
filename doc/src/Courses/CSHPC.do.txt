@@ -1,4 +1,4 @@
-TITLE:  INFXXXX High-Performance Computing and Numerical Projects  
+TITLE:  High-Performance Computing and Numerical Projects  
 AUTHOR: Department of Informatics, University of Oslo
 DATE: Planned start: Fall semester 2018
 
@@ -8,14 +8,17 @@ DATE: Planned start: Fall semester 2018
 
 === Course content ===
 
-This will be a new 10-credit course to be offered at MAT-NAT.
-The course is first and foremost designed as one basic ingredient of the
-curriculum for the "Master program in Computational Science". However, this
-course should also be useful for other students, as well as
+Effective use of modern computing systems, spanning from laptop PCs to
+ supercomputers, is essential for the computational science.
+The course teaches the fundamental concepts in parallel programming
+and high-performance computing, such as work load division,
+communication, speedup, code optimization and typical parallel architectures. The most basic communication commands in MPI and programming directives in OpenMP will be taught. Use of multicore PCs and PC clusters will also be lectured, together with a brief description about programming GPUs for parallel computing.
+In addtion to being one basic ingredient of the
+curriculum for the "Master program in Computational Science", this
+course can also be useful for other students, as well as
 scientific staff at UiO, who want to learn the fundamental knowledge
 about efficiently applying modern computer architectures to solving
 computation-heavy scientific problems.
-The course teaches the fundamental concepts in parallel programming, such as work load division, communication, speedup and typical parallel architectures. The most basic communication commands in MPI and programming directives in OpenMP will be taught. Use of multicore PCs and PC clusters will also be lecture, together with a brief description about programming GPUs for parallel computing.
 
 
 
@@ -24,12 +27,14 @@ The course teaches the fundamental concepts in parallel programming, such as wor
 
 === Learning outcomes ===
 
-The course introduces a variety of central algorithms and methods for professional studies in high-performance computing. The course is project based and through the various projects, the participants will be exposed to fundamental research problems in the field of high-performance computing, with the aim to reproduce state of the art scientific results. The students will learn to develop and structure large codes for studying these systems, get aquainted with computing facilities and learn to handle large scientific projects. A good scientific and ethical conduct is emphasized throughout the course. More specifically, after this course you will
+The course introduces a variety of central algorithms and methods
+essential for studies in high-performance computing. Through
+hands-on exercises and projects, the students will be exposed to fundamental research problems in the field of high-performance computing, with the aim to reproduce state of the art scientific results. The students will learn to develop and structure large codes for studying these systems, get acquainted with computing facilities and learn to handle large scientific projects. A good scientific and ethical conduct is emphasized throughout the course. More specifically, after this course you will
 
-o Be capable of effectively using laptop/desktop
-o be Capable of extending suitable numerical code to computer clusters
-o Be informed about cutting-edge non-CPU hardware
-o Be ready to learn about more advanced parallel computing
+* Be capable of effectively using laptop/desktop computers;
+* Be capable of extending suitable numerical code to computer clusters;
+* Be informed about cutting-edge non-CPU hardware;
+* Be ready to learn about more advanced parallel computing.
 
 ===== Prerequisites =====
 
@@ -40,58 +45,52 @@ Overlap: 5 ECTS overlap with INF3380.
 
 ===== The course has two central parts =====
 
-The course will have two main parts:
 o Effective use of a laptop PC or desktop computer
 o HPC beyond a laptop/desktop
 
-Computational aspects play a central role and the students are expected to work on numerical projects which illustrate the theory. Some of the projects can be coordinated with the Data analysis and machine learning  course (course code to be added). 
-
 === Effective use of a laptop PC or desktop computer ===
 
-o Quick overview of modern computer hardware
-o Simple performance modeling (realistic performance upper bound)
-o Good programming practices – “clean code”
-o Data structure and array-based programming
-o Single-core optimizations (loop optimization, vectorization, etc.)
-o Thread-based multicore programming via OpenMP
+* Quick overview of modern computer hardware;
+* Simple performance modeling (realistic performance upper bound);
+* Good programming practices – “clean code”;
+* Data structure and array-based programming;
+* Single-core optimizations (loop optimization, vectorization, etc.);
+* Thread-based multicore programming via OpenMP.
 
-All topics will be supported by examples, hands-on exercises and project work.
 
 ===  HPC beyond a laptop/desktop ===
 
-o Typical cluster architecture and H/W performance characteristics
-o Parallelism, work/data partitioning, collaboration
-o Basic issues of parallel program design
-o MPI programming
-o Hybrid parallel programming (MPI+ OpenMP)
-o A peek into non-CPU hardware: GPU
+* Typical cluster architecture and H/W performance characteristics;
+* Parallelism, work/data partitioning, collaboration;
+* Basic issues of parallel program design;
+* MPI programming;
+* Hybrid parallel programming (MPI+ OpenMP);
+* A peek into non-CPU hardware: GPU.
+
+All the above topics will be supported by examples, hands-on exercises and project work.
+
+Computational aspects play a central role and the students are
+expected to work on numerical examples and projects which illustrate
+the theory and algorithms. Some of the projects can be coordinated with the Data analysis and machine learning course (course code to be added). 
+
 
 
 === Practicalities ===
 
-o Four lectures per week, Fall semester, 10 ECTS
-o XXX hours of laboratory sessions for work on computational projects
-o One mandatory assignment (a prescribed numerical problem, intended for using a shared-memory computer system)
-o one project (with the possibility of configuring an individual project for each student, in the numerical problem, target parallel hardware, programming language)
-o A selected number of weekly assignments?
+o Four lectures per week, Fall semester, 10 ECTS;
+o XXX hours of laboratory sessions for work on hands-on exercises and/or computational projects;
+o One mandatory assignment (a prescribed numerical problem, intended for using a shared-memory computer system);
+o One project (with the possibility of configuring an individual project for each student, in the numerical problem, target parallel hardware, programming language);
+o Weekly small assignments;
 o Final exam which counts xxx% of the final grade. This needs a thorough discussion. However, there are readily two possibilities: (1) a standard 4-hour written or digital exam (2) An oral presentation by each student of her/his project and follow-up questions. The second possibility will have a challenge for the teacher(s) when the number of students is large.
-o Organized by the Departments of Informatics
-o Possible teachers first time: Xing Cai
-o The course is part of the CS Master of Science program, but is open to other bachelor and Master of Science students at the University of Oslo. 
-o Grading scale: Grades are awarded on a scale from A to F, where A is the best grade and F is a fail
+o Organized by the Departments of Informatics;
+o Possible teacher first time: Xing Cai;
+o The course is part of the CS Master of Science program, but is open to other bachelor and Master of Science students at the University of Oslo;
+o Grading scale: Grades are awarded on a scale from A to F, where A is the best grade and F is a fail;
 o The course will be offered as a 4XXX and 3XXX course.
 
 
 
 === Possible textbooks ===
 
-o Georg Hager and Gerhard Wellein, Introduction to High Performance Computing for Scientists and Engineers (Chapman & Hall/CRC Computational Science, 2010)
-
-
-
-
-
-
-
-
-
+* Georg Hager and Gerhard Wellein, Introduction to High Performance Computing for Scientists and Engineers (Chapman & Hall/CRC Computational Science, 2010)

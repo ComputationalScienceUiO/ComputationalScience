@@ -5,8 +5,13 @@ DATE: Planned start: Fall 2018
 
 ===== Why Chemistry =====
 
-Michele, se riesci a scrivere qualcosa di interessante qui, ti sarei immensamente grato!
-Se puoi dare un'occhiatina ai corsi, ancor meglio.
+One hundred years after the quantum mechanical revolution, chemistry has reached the level of a mature discipline, where the fundamental equations describing the interactions at the level of chemical bonding and intermolecular forces are in principle known. The grand challenge that we face today is in predicting and controlling with high accuracy the behaviour of chemical systems in the presence of complex interactions (heterogeneous phases, system not in thermodynamic equilibrium, interactions with strong electromagnetic fields, etc). 
+
+This is where computational modeling enters in the game – by taking this study direction, you will learn to develop and apply a variety of tools that allow you to describe chemical processes at different resolution scales: from solving very accurate quantum mechanical and electronic structure problems, through modeling chemical reactions in the gas phase as well as in solution, to modeling soft-matter and biological systems like proteins, DNA, and so on.
+Both software development and the constant growth of massive parallel architectures allow us to overcome the heavy computational costs in simulations of molecular systems. Graphical user interfaces are also important tools used today in modeling chemistry 
+
+In addition to the general skills acquired in the Master in Computational Science, here we note that computer modeling is today a standard tool used in several chemistry labs both in research and industry — for example, drug development research and development units use computer modeling to optimize leads prior to their synthesis, which will make the profile of the graduate students very appealing in the job market.
+
 
 ===== Structure and courses =====
 
@@ -36,7 +41,7 @@ Depending on specialization, the following courses that can be included as part 
 
 Students have to choose among two of the following courses
 o CS-MATH1 (data analysis and machine learning)
-o CS-MATH2 (mathematical modelling)
+o CS-MATH2 (mathematical modeling)
 o CS-INF1 (High performance computing)
 
 The following courses are recommended for students in this study direction:
@@ -45,6 +50,11 @@ o FYS4411/9411 Computational Physics II  (Computational quantum mechanics with a
 o FYS4460/9460 Computational Physics III  (Computational statistical mechanics with an emphasis on Molecular dynamics, percolation and critical phenomena) 
 o _CS-PHYS6_: Computational Materials Science (new, perhaps use elements from FYS-MENA4111)
 o _CS-PHYS2_: Computational Molecular dynamics in life science and materials science (new)
+
+o CS-KJMXXX Multi-scale molecular modeling (new course (that would be what you called _CS-PHYS2_: Computational Molecular dynamics in life science and materials science): Molecular dynamics, ab initio MD, parameterized H,  Coarse grained modeling, enhanced sampling etc… 
+
+o CS-KJMXXX Advanced course in Electronic structure (new course): TBD (Depends on how the KJM program develops)
+
 
 
 
