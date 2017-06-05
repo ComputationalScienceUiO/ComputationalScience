@@ -5,7 +5,7 @@ DATE: Planned start: Fall 2018
 
 
 
-===== Strategic importance =====
+===== Why choose this program =====
 
 The program will educate the next generation of cross-disciplinary
 science students with the knowledge, skills, and values needed to pose
@@ -13,29 +13,26 @@ and solve current and new scientific, technological and societal
 challenges. The program will lay the foundation for cross-disciplinary
 educational, research and innovation activities.
 
-It is the first educational program to
-comprehensively treat computation as the *triple junction* of
-algorithm development and analysis, high performance computing, and
-applications to scientific and engineering modeling and data
-science. This approach recognizes computation as a new discipline
-rather than being decentralized into isolated sub-disciplines. The CS program
-will  will enable application-driven computational modeling
-while also exposing disciplinary computational scientists to
-advanced tools and techniques, which will ignite new
-transformational connections in research and education.
 
 
 FIGURE: [figslides/cs.jpg, width=500 frac=0.6] 
 
 
 
-===== Vision for the future: Scientific Computing and Data Science =====
+=== Scientific Computing, a new Master of Science program  ===
+
+It is the first educational program to
+comprehensively treat computation as the *triple junction* of
+algorithm development and analysis, high performance computing, and
+applications to scientific and engineering modeling and data
+science. This approach recognizes computation as a new discipline
+rather than being decentralized into isolated sub-disciplines. 
 
 Scientific computing focuses on the development of predictive computer
-models of the world around us. As study of physical phenomena through
-experimentation has become impossible, impractical and/or expensive,
+models of the world around us. As studies of physical phenomena through
+experimentation have become almost impossible, impractical and/or expensive,
 computational modeling has become the primary tool for
-understanding—equal in stature to analysis and experiment. 
+understanding, equal in stature to analysis and experiment. 
 The discipline of scientific computing
 is the development of new methods that make challenging problems
 tractable on modern computing platforms, providing scientists and
@@ -51,27 +48,86 @@ biological side would be better care for patients (e.g., personalized
 medicine). Given a patient’s genetic makeup, the proper data-driven
 model would identify the most effective treatment for that patient.
 
-
-
-===== Aims of the program =====
-
-
-A specific aim of this program is to develop the students' ability to pose and
-solve problems that combine physical insights with mathematical tools
-and computational skills. This provides a unique combination
+An important  aim of this program is to develop your abilities to pose and
+solve problems that combine  insights from one or more disciplines from the natural sciences 
+with mathematical tools and computational skills. This provides a unique combination
 of applied and theoretical knowledge and skills. These features are invaluable
 for the development of multi-disciplinary educational and research programs.
 The main focus is not to educate computer
-specialists, but to educate students with a solid understanding in basic science
+specialists, but to educate people with a solid understanding in basic science
 as well as an integrated knowledge on how  to use
 essential methods from computational science. This requires an
-education that covers both the specific disciplines like physics, biology,
+education that covers both the  specific disciplines like physics, biology,
 geoscience, mathematics etc with a strong background in computational science.
+This Master of Science program is unique in the sense that it will enable application-driven computational modeling
+while also exposing disciplinary computational scientists to
+advanced tools and techniques, which will ignite new
+transformational connections in research and education.
 
+
+=== The program has the following study options ===
+
+
+
+* "Computational Science: Applied Mathematics and Risk Analysis":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompMath/html/CompMath-bs.html": Here you will meet modern mathematical methods and algorithms applied to basic mathematical research as well as applications spanning from studies of partial differential equations to risk analysis in large projects.
+* "Computational Science: Astrophysics":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompAst/html/CompAst-bs.html": Astrophysics is a field where  extensive numerical simulations are central to our understanding of the universe and its evolution, from the physics of our own sun to the most remote galaxies.
+* "Computational Science: Bioinformatics":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompBioinf/html/CompBioinf-bs.html": Here you will learn to develop and apply analysis methods on data about genomes, genes and proteins that are essential for research in molecular biology and molecular medicine.
+* "Computational Science: Bioscience":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompBio/html/CompBio-bs.html": Here you will work with cutting-edge scientists exploring the convergence of biology, chemistry, physics, mathematics, and computational science.
+* "Computational Science: Chemistry":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompChem/html/CompChem-bs.html": You will learn to develop and apply a variety of tools that allow you to describe chemical processes at different resolution scales; from solving very accurate quantum mechanical and electronic structure problems, through modeling chemical reactions in the gas phase as well as in solution, to modeling soft-matter and biological systems like proteins, DNA, and so on. 
+* "Computational Science: Geoscience":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompGeo/html/CompGeo-bs.html": In this study option you learn to study, through extensive computations,  the physical processes which are important for diverse phenomena on earth, including weather and climate, ocean currents, rivers, glaciers, plate tectonics and natural hazards, as well as the cycles which link these phenomena together.
+* "Computational Science: Imaging and Biomedical Computing":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompInf/html/CompInf-bs.html": Imaging and Biomedical Computing will give you a solid background and  deep insight into the technologies that underly modern modern imaging and simulation tools. 
+* "Computational Science: Materials science":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompMaterials/html/CompMaterials-bs.html": In computational materials science we use the computer and computational tools to address basic questions in materials science, from the underlying laws of motion to the structure and final fabrication of specific materials. 
+* "Computational Science: Mechanics":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompMech/html/CompMech-bs.html": This study option includes both fluid and solid mechanics with a common base of continuum mechanics and gives you the tools to solve important problems in basic and applied research. 
+* "Computational Science: Physics":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/CompPhys/html/CompPhys-bs.html": This direction gives you an extensive spectrum  of possibilities, ranging from studying quantum physical systems in nanotechnology and the characteristics of new materials, subatomic physics, from lattice quantum chromodynamics simulations to studies of stars and the synthesis of the elements, to oil flow through various rock strata, simulating natural disasters, computational statistical physics, plasma physics, semi-conductor technology and simulating quantum computers.
+
+
+
+
+=== Study environment ===
+
+This is new program at the University of Oslo and through various activities, spanning from common meetings and field trips to various social gatherings, we will gradually build up a top learning  environment where you will thrive as a student and learn to develop your scientific creativity. The University of Oslo offers  a rich and active student environment with more than 200 student lead activities and organizations. 
+
+=== Studies abroad ===
+
+All study options offer possibilities for stays abroad. Planning a
+semester or more abroad or performing parts of your thesis at a
+collaborating institution is something we highly recommend. As a
+student in this program you have a number of interesting international
+exchange possibilities. The involved researchers have extensive
+collaborations with other researchers worldwide. These exchange
+possibility range from top universities in the USA, Asia and Europe as
+well as leading National Laboratories in the USA. Don't hesitate to
+get in touch with  the contact person of your study option in case you plan to
+spend some time abroad. Studies at other
+institutions can be planned from the very first semester of this
+Master of Science program.
+
+Students at the University of Oslo may choose to "take parts of
+their degrees at a university abroad":"http://www.uio.no/studier/utveksling/".
+The University of Oslo has exchange agreements with other universities in different parts of the world. "The MN Faculty has additional exchange agreements with many universities abroad":"http://www.uio.no/studier/utveksling/avtaler/avtaleeiere/uio/".
+
+
+=== Career prospect ===
 
 A significant aspect of this program is the ability to offer new educational
 opportunities that are aligned with the needs of a 21st century
 workforce. Many companies are seeking
 individuals who have knowledge of both a specific discipline and
-computational modeling.
+computational modeling. And candidates who are capable of modeling and understanding complicated
+systems in natural science, are in short supply in society.  The
+computational methods and approaches to scientific problems that you will learn
+when working on your thesis project are very similar to the methods
+you  will use in later stages of your career.  To handle large
+numerical projects demands structured thinking and good analytical
+skills and a thorough understanding of the problems to be solved. This
+knowledge makes the students unique on the labor market.
 
+Career opportunities are many, from research institutes, universities
+and university colleges and a multitude of companies. The program gives an
+excellent background for further studies, with a PhD as one possible
+goal.
+
+The program has also a strong international element which allows students to
+gain important experience from international collaborations in
+science, with the opportunity to spend parts of the time spent on
+thesis work at research institutions abroad.
