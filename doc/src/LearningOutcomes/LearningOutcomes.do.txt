@@ -115,8 +115,7 @@ The learning outcomes are subdivided in three general categories, knowledge, ski
 
 * _General competence_: Upon completion of this program
 
- * you have developed  a fundamental understanding and knowledge of scientific work and the scientific method, including ethical and societal limitations and possibilities. This means among
-other things that you
+ * you have developed  a fundamental understanding and knowledge of scientific work and the scientific method, including ethical and societal limitations and possibilities. This means among other things that you
   o can develop hypotheses and suggest ways to test these using relevant analytical, experimental and numerical tools
   o can reflect on and develop strategies and tools to make science reproducible and have a sound ethical approach to scientific problems
  * you can communicate in a professional way scientific problems, results and uncertainties, orally and in written form 
