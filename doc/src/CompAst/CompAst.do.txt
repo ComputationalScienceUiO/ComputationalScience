@@ -2,8 +2,9 @@ TITLE: Computational Science: Astrophysics
 AUTHOR: Institute for Theoretical Astrophysics, University of Oslo
 DATE: Planned start: Fall 2018
 
+FIGURE: [fig-compast/compastro.jpg, width=1000 frac=0.4] 
 
-===== Why  Astrophysics =====
+===== Why  Computational Astrophysics =====
 
 Roughly speaking, astrophysics is the study of anything and everything
 outside the Earth's domain, including the Moon, the Planets,
@@ -18,11 +19,11 @@ computers as a laboratory, or test bed, to confront their theories
 with observational reality. 
 
 In particular, at the Institute of Theoretical Astrophysics (ITA),
-computational science is mainly concentrated on three subjects:
+computational astrophysics is mainly concentrated on three subjects:
 solar atmospheric modeling, extragalactic studies, and the evolution
 of structure in the Universe.
 
-===== Solar Physics =====
+=== Computational Solar Physics ===
 
 Sufficiently stable to nurture life during the last 4 billion years,
 and modern humans the last 100,000 years,  the Sun is nevertheless a
@@ -37,8 +38,6 @@ electronic equipment grows and as we venture beyond the Earth’s
 magnetosphere and into the solar system proper. 
 There is thus a pressing need to understand the workings of the
 energetic Sun.
-
-FIGURE: [fig-compast/cb24ni_lgtg=3.7-5.0_side_B_123.jpg, width=500 frac=0.6] 
 
 At the ITA we have a goal of solving the problems of understanding and
 explaining the active sun. This means that we wish to build numerical models of the
@@ -58,14 +57,68 @@ solving the puzzles that confront us, but also the chance of involving
 our students in exciting work at the forefront of science with a
 mix of observational, theoretical, and/or numerical tasks.
 
-===== Extragalactic astronomy and Cosmology =====
+=== Computational  Extragalactic Astronomy and Cosmology ===
 
 Galaxies are the building blocks of the Universe. Our home Galaxy, the Milky Way, hosts tens of billions of stars like the Sun, and the Universe contains about one to two hundred billions of galaxies. Galaxies come with different varieties, some with grand design spiral arms like the Milky Way, some with the shape of an ellipsoidal, and still some galaxies look completely irregular. Virtually all large galaxies (including the Milky Way) harbour supermassive black holes (SMBHs) at their centre. The vast space between galaxies are filled with gaseous intergalactic medium. Following the underlying dark matter structure, the gas accretes onto galaxies, and fuels the star formation and black hole growth within them. In turn, the stars and supermassive black holes inject energy, momentum, radiation and metals (elements with atomic number larger than Helium) into the surrounding gas which impact the subsequent accretion and star formation.  When and how did the first galaxy form from the initial quantum perturbations? How do galaxies evolve throughout the cosmic history? What causes the galaxy population to be so diversified? And how do supermassive black holes form and co-evolve with the host galaxies? How did the radiation from first stars and black holes transform the intergalactic gas?  These are some of the central questions we want to address in modern cosmology. 
 
 Simulating such complex and non-linear systems numerically is a highly challenging task, one needs to not only cover a large dynamic range, but also model simultaneously many physical processes (gravity, hydrodynamics, turbulence, star formation, black hole formation,  radiation, magnetic field and perhaps cosmic rays etc.).  At the ITA, we simulate cosmological galaxy formation with state-of-the-art hydrodynamic codes and sophisticated models of physical processes, including the one that has successfully simulated the world’s first realistic Milky Way-like galaxy. We also developed a world-leading radiative transfer code to produce synthetic observations to confront simulations with the data. We have local expertise on observations of high-redshift galaxies using first-rate gravitational lensing data from the large Sloan Giant Arc Survey and the future Euclid satellite, as well as multi-wavelength data from major ground-based and space telescopes like HST, Keck, ALMA, GAIA and the upcoming JWST on galaxies at both early Universe and current epoch. It is the golden age for cosmology and extragalactic astronomy and students will be involved in exciting and fruitful projects at the ITA. 
 
 
-===== OK, sounds like fun, but is it actually possible to get a job with a degree in astrophysics? =====
+=== Study environment ===
+
+This is new program at the University of Oslo and through various
+activities, spanning from common meetings and field trips to various
+social gatherings, we will gradually build up a top learning
+environment where you will thrive as a student and learn to develop
+your scientific creativity. The University of Oslo offers a rich and
+active student environment with more than 200 student led activities
+and organizations.
+
+=== Studies abroad ===
+
+All study options offer possibilities for stays abroad. Planning a
+semester or more abroad or performing parts of your thesis at a
+collaborating institution is something we highly recommend. As a
+student in this program you have a number of interesting international
+exchange possibilities. The involved researchers have extensive
+collaborations with other researchers worldwide. These exchange
+possibilities range from top universities in the USA, Asia and Europe as
+well as leading National Laboratories in the USA. Don't hesitate to
+get in touch with  the contact person of your study option in case you plan to
+spend some time abroad. Studies at other
+institutions can be planned from the very first semester of this
+Master of Science program.
+
+Students at the University of Oslo may choose to "take parts of
+their degrees at a university abroad":"http://www.uio.no/studier/utveksling/".
+The University of Oslo has exchange agreements with other universities in different parts of the world. "The MN Faculty has additional exchange agreements with many universities abroad":"http://www.uio.no/studier/utveksling/avtaler/avtaleeiere/uio/".
+
+
+=== Career prospect ===
+
+A significant aspect of this program is the ability to offer new educational
+opportunities that are aligned with the needs of a 21st century
+workforce. Many companies are seeking
+individuals who have knowledge of both a specific discipline and
+computational modeling. And candidates who are capable of modeling and understanding complicated
+systems in natural science, are in short supply in society.  The
+computational methods and approaches to scientific problems that you will learn
+when working on your thesis project are very similar to the methods
+you  will use in later stages of your career.  To handle large
+numerical projects demands structured thinking and good analytical
+skills and a thorough understanding of the problems to be solved. This
+knowledge makes you  unique on the labor market.
+
+Career opportunities are many, from research institutes, universities
+and university colleges and a multitude of companies. The program gives an
+excellent background for further studies, with a PhD as one possible
+goal.
+
+
+The program has also a strong international element which allows students to
+gain important experience from international collaborations in
+science, with the opportunity to spend parts of the time spent on
+thesis work at research institutions abroad.
 
 Successful astrophysics students have learned a large variety
 techniques to attack abstract problems. These are skills that have
@@ -73,192 +126,5 @@ applications far outside of the study of "stars". To give you a taste
 of possible careers we have compiled a set of interviews of our
 alumni where they explain the relevance of their educations to  
  "their careers.":"http://www.mn.uio.no/astro/studier/karriere/index.html"
-
-
-
-===== Structure and courses =====
-
-The table here is an example of a suggested path for a Master of Science project,
-with course work the first year and thesis work the last year.
-
-|--------l------------------l----------------------l---------------l-------------|
-|                   |  10 ECTS           |  10 ECTS     |       10 ECTS          |
-|--------l------------------l----------------------l----------------l------------|
-| 4th semester      | Master thesis      |   Master Thesis  | Master Thesis      |
-|--------------------------------------------------------------------------------|
-| 3rd semester      | Master thesis      |   Master Thesis  | Master Thesis      |
-|--------------------------------------------------------------------------------|
-| 2nd semester      | Master courses      |   Master courses  | Master courses   |
-|--------------------------------------------------------------------------------|
-| 1st semester      | Master courses      |   Master courses  | Master courses   |
-|--------------------------------------------------------------------------------|
-
-This  program is very flexible in its structure and students may opt for starting with their thesis
-work from the first semester and scatter the respective course load across all four semesters.
-Depending on interests and specializations, there are many courses on computational science which can make
-up the required curriculum of course work. Furthermore, courses may be broken up in smaller modules,
-avoding thereby the limitation of 10 ECTS per course only. Some of these courses are listed below.
-
-=== Courses ===
-Depending on specialization, the following courses that can be included as part of the compulsory 60 ECTS needed for a Master of Science degree are "described here":"https://computationalscienceuio.github.io/ComputationalScience/doc/pub/ProgramStructure/html/ProgramStructure-bs.html".
-
-
-
-=== Graduate Certificates  ===
-The program plans to offer graduate certificates in
-* Three of the courses with label CS-MATH  gives a certificate in Computational Mathematics
-* Three of the courses with label CS-PHYS gives a certificate in Computational Physics, Astrophysics, Chemistry, Materials Science  and Geoscience
-* Three of the courses with label CS-BIO gives a certificate in Computational life science. 
-* Three of the courses with label CS-INF gives a certificate in High-performance computing. 
-
-
-
-=== Dual Degrees  ===
-The program plans to offer dual degrees (more text to come)
-
-
-
-===== Description of learning outcomes =====
-
-The power of the scientific method lies in identifying a given problem
-as a special case of an abstract class of problems, identifying
-general solution methods for this class of problems, and applying a
-general method to the specific problem (applying means, in the case of
-computing, calculations by pen and paper, symbolic computing, or
-numerical computing by ready-made and/or self-written software). This
-generic view on problems and methods is particularly important for
-understanding how to apply available, generic software to solve a
-particular problem.
-
-
-Computing competence represents a central element
-in scientific problem solving, from basic education and research to
-essentially almost all advanced problems in modern
-societies. Computing competence is simply central to further
-progress. It enlarges the body of tools available to students and
-scientists beyond classical tools and allows for a more generic
-handling of problems. Focusing on algorithmic aspects results in
-deeper insights about scientific problems.
-
-The learning outcomes are subdivided in three general categories, knowledge, skills and general competence.
-
-* _Knowledge_: A candidate from this program
-
- * has deep knowledge of the scientific method and computational science at an advanced level, meaning that the candidate
-
-  o has the ability to understand advanced scientific results in new fields
-  o has fundamental understanding of methods and tools
-  o can develop and apply advanced computational methods to scientific problems
-  o is capable of judging and analyzing all parts of the obtained scientific results
-  o can present results orally and in written form as scientific reports/articles
-  o can propose new hypotheses and suggest solution paths
-  o can generalize mathematical algorithms and apply them to new situations
-  o can link computational models to specific applications and/or experimental data
-  o can develop models and algorithms to describe experimental data
-  o masters methods for reproducibility and how to link this to a sound ethical scienfitic conduct
-  o has a thorough understanding of how computing is used to  solve  scientific problems
-  o knows fundamental algorithms in computational science
-  
- * has a fundamental understanding and knowledge of scientific work, meaning that
-  o the candidate can develop hypotheses and suggest ways to test these
-  o can use relevant analytical, experimental and numerical tools and results to test the scientific hypotheses
-  o can generalize from numerical and experimental data to mathematical models and underlying principles
-  o can analyze the results and evaluate their relevance with respect to the actual problems and/or hypotheses
-  o can present the results according to good scientific practices
-
-* _Skills_: A candidate from this program
- * has a deep understanding of what computing means, entailing several or all of the topics listed below
-  o knows the most fundamental algorithms involved, how to optimize these and perform statistical uncertainty quantification
-  o has overview of advanced algorithms and how they can be accessed in available software and how they are used to solve scientific problems
-  o has knowledge and understands high-performance computing elements: memory usage, vectorization and parallel algorithms
-  o can use effeciently high-performance computing resources, from compilers to hardware architectures
-  o understands approximation errors and what can go wrong with algorithms
-  o has knowledge of at least one computer algebra system and how it is applied to perform classical mathematics
-  o has extensive experience with programming in a high-level language (MATLAB, Python, R)
-  o has experience with programming in a compiled language (Fortran, C, C++)
-  o has experience with implementing and applying numerical algorithms in reusable software that acknowledges the generic nature of the mathematical algorithms
-  o has experience with debugging software
-  o has experience with test frameworks and procedures
-  o has experience with different visualization techniques for different types of data
-  o can critically evaluate results and errors
-  o can develop algorithms and software for complicated scientific problems independently and in collaboration with other students
-  o masters software carpentry: can design a maintainable program in a systematic way, use version control systems, and write scripts to automate manual work
-  o understands how to increase the efficiency of numerical algorithms and pertinent software
-  o has knowledge of stringent requirements to efficiency and precision of software
-  o understands tools to make science reproducible and has a sound ethical approach to scientific problems
-
-* _General competence_: A candidate from this program
-
- * is able to develop professional competence through the thesis work, entailing:
-  o mature professionally and be able to work independently
-  o can communicate in a professional way scientific results, orally and in written form
-  o can plan and complete a research project
-  o can develop a scientific intuition and understanding that makes it possible to present and discuss scientific problems, results and uncertainties
-
-
- * is able to develop virtues, values and attitudes that lead to  a better understanding of ethical aspects of the scientific method, as well as promoting central aspects of the scientific method to society. This means for example that the candidate
-
-  o can reflect on and develop strategies for making science reproducible and to promote the need for a proper ethical conduct
-  o has a deep understanding of the role basic and applied  research and computing play for progress in society
-  o is able to promote, use and develop version control tools in order to make science reproducible
-  o is able to critically evaluate the consequences of own research and how this impacts society
-  o matures an understanding of the links between basic and applied research and how these shape, in a fundamental way,  progress in science and technology
-  o can develop an understading of the role research and science can play together with industry and society in general
-  o can reflect over and develop learning strategies for life-long learning.
-
-By completing a Master of Science thesis, the candidate will have developed a critical understanding of the scientific methods which have been studied, has a better understanding of the scientific process per se as well as having developed perspectives for future work and how to verify and validate scientific results.
-
-
-
-
-
-===== Admission criteria: Astrophysics  =====
-The program has a minimum course requirement of 120 ECTS (European Credit Transfer System) at the undergraduate level (bachelor degree or equivalent) in astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. 
-o Of these 120 ECTS, 40 ECTS have to include basic mathematics and programming courses, equivalent to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120 and at least one of the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx. 
-o The remaining 80 ECTS have to be within at most two of the fields of astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. 40 of these 80 ECTS have to be advanced undergraduate courses at the 2000 and 3000 level and a minimum of 20 ECTS must be at the 3000 level within physics/material science/astrophysics/informatics/mathematics/mechanics. 
-o An average mark C (European grading scale) is required for the 40 ECTS in mathematics and programming (corresponding  to the University of Oslo courses  MAT1100, MAT1110, MAT1120  and the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx or similar courses) and the 40 ECTS at the 2000 and 3000 level. A minimum of 20 ECTS must be at the 3000 level within physics/material science/astrophysics/informatics/mathematics/mechanics. 
-
-
-
-
-
-=====  Study abroad and international collaborators =====
-
-
-Students at the University of Oslo may choose to "take parts of
-their degrees at a university abroad":"http://www.uio.no/studier/utveksling/".
-The University of Oslo has exchange agreements with other universities in different parts of the world. "The MN Faculty has additional exchange agreements with many universities abroad":"http://www.uio.no/studier/utveksling/avtaler/avtaleeiere/uio/".
-
-Students in this program have a number of interesting international
-exchange possibilities. The involved researchers have extensive
-collaborations with: _add text_
-
-
-
-
-===== Career prospects =====
-
-Candidates who are capable of modeling and understanding complicated
-systems in natural science, are in short supply in society.  The
-computational methods and approaches to scientific problems students learn
-when working on their thesis projects are very similar to the methods
-they will use in later stages of their careers.  To handle large
-numerical projects demands structured thinking and good analytical
-skills and a thorough understanding of the problems to be solved. This
-knowledge makes the students unique on the labor market.
-
-Career opportunities are many, from research institutes, universities
-and university colleges and a multitude of companies. Examples
-include IBM, Hydro, Statoil, and Telenor.  The program gives an
-excellent background for further studies, with a PhD as one possible
-goal.
-
-The program has also a strong international element which allows students to
-gain important experience from international collaborations in
-science, with the opportunity to spend parts of the time spent on
-thesis work at research institutions abroad.
-
-
-
 
 

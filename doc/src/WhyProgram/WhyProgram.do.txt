@@ -47,21 +47,23 @@ biological side would be better care for patients (e.g., personalized
 medicine). Given a patient’s genetic makeup, the proper data-driven
 model would identify the most effective treatment for that patient.
 
-An important  aim of this program is to develop your abilities to pose and
-solve problems that combine  insights from one or more disciplines from the natural sciences 
-with mathematical tools and computational skills. This provides a unique combination
-of applied and theoretical knowledge and skills. These features are invaluable
-for the development of multi-disciplinary educational and research programs.
-The main focus is not to educate computer
-specialists, but to give you an education  with a solid understanding in basic science
-as well as an integrated knowledge on how  to use
-essential methods from computational science. This requires an
-education that covers both the  specific disciplines like physics, biology,
-geoscience, mathematics etc with a strong background in computational science.
-This Master of Science program is unique in the sense that it will enable application-driven computational modeling
-while also exposing disciplinary computational scientists to
-advanced tools and techniques. This will hopefully  ignite new
-transformational connections in research and education.
+An important aim of this program is to develop your abilities to pose
+and solve problems that combine insights from one or more disciplines
+from the natural sciences with mathematical tools and computational
+skills. This provides a unique combination of applied and theoretical
+knowledge and skills. These features are invaluable for the
+development of multi-disciplinary educational and research programs.
+The main focus is not to educate computer specialists, but to give you
+an education with a solid understanding in basic science as well as an
+integrated knowledge on how to use essential methods from
+computational science. This requires an education that covers both the
+specific disciplines like physics, biology, geoscience, mathematics
+etc with a strong background in computational science.  This Master of
+Science program is unique in the sense that it will enable
+application-driven computational modeling while also exposing
+disciplinary computational scientists to advanced tools and
+techniques. This will hopefully ignite new transformational
+connections in research and education.
 
 
 === The program has the following study options ===
@@ -84,7 +86,13 @@ transformational connections in research and education.
 
 === Study environment ===
 
-This is new program at the University of Oslo and through various activities, spanning from common meetings and field trips to various social gatherings, we will gradually build up a top learning  environment where you will thrive as a student and learn to develop your scientific creativity. The University of Oslo offers  a rich and active student environment with more than 200 student lead activities and organizations. 
+This is new program at the University of Oslo and through various
+activities, spanning from common meetings and field trips to various
+social gatherings, we will gradually build up a top learning
+environment where you will thrive as a student and learn to develop
+your scientific creativity. The University of Oslo offers a rich and
+active student environment with more than 200 student led activities
+and organizations.
 
 === Studies abroad ===
 
@@ -93,8 +101,8 @@ semester or more abroad or performing parts of your thesis at a
 collaborating institution is something we highly recommend. As a
 student in this program you have a number of interesting international
 exchange possibilities. The involved researchers have extensive
-collaborations with other researchers worldwide. These exchange
-possibility range from top universities in the USA, Asia and Europe as
+collaborations with other researchers worldwide. The exchange
+possibilities range from top universities in the USA, Asia and Europe as
 well as leading National Laboratories in the USA. Don't hesitate to
 get in touch with  the contact person of your study option in case you plan to
 spend some time abroad. Studies at other
@@ -119,7 +127,7 @@ when working on your thesis project are very similar to the methods
 you  will use in later stages of your career.  To handle large
 numerical projects demands structured thinking and good analytical
 skills and a thorough understanding of the problems to be solved. This
-knowledge makes the students unique on the labor market.
+knowledge makes you unique in the labor market.
 
 Career opportunities are many, from research institutes, universities
 and university colleges and a multitude of companies. The program gives an
