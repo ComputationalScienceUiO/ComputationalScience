@@ -6,7 +6,13 @@ FIGURE: [fig-slides/complifescience.jpg, width=1000 frac=0.2]
 
 ===== Why Computational Bioscience =====
 
-Do you want to understand how our brain functions in terms of the information processing properties of the structures that make up the nervous system? Or do you want  to gain proficiency in computational tools and techniques that are unsed in  the life sciences? Computational Bioscience prepares you for the discovery and implementation of algorithms that facilitate our understanding of biological processes.
+Do you want to understand how our brain functions in terms of the
+information processing properties of the structures that make up the
+nervous system? Or do you want to gain proficiency in computational
+tools and techniques that are used in the life sciences?
+Computational Bioscience prepares you for the discovery and
+implementation of algorithms that facilitate our understanding of
+biological processes and future life science studies.
 
 
 
@@ -20,16 +26,16 @@ techniques. Such data sets are encountered in all branches of modern
 biosciences, from those studying how genomes determine the development
 and function of organisms, to those investigating how climate and
 landscape structures on different scales determine the productivity
-and biodiversity of our planet. On the other hand, meeting the
+and biodiversity of our planet or how our brain functions. On the other hand, meeting the
 challenges of biological data also requires development of new
-theories and computational tools. With a Master's degree in CS:
-Biosciences you will work with cutting-edge scientists exploring the
+theories and computational tools. With a Master's degree in Computational 
+Bioscience you will work with cutting-edge scientists exploring the
 convergence of biology, chemistry, physics, mathematics, and computational
 science.
 
 === Study environment ===
 
-This is new program at the University of Oslo and through various activities, spanning from common meetings and field trips to various social gatherings, we will gradually build up a top learning  environment where you will thrive as a student and learn to develop your scientific creativity. The University of Oslo offers  a rich and active student environment with more than 200 student lead activities and organizations. 
+This is new program at the University of Oslo and through various activities, spanning from common meetings and field trips to various social gatherings, we will gradually build up a top learning  environment where you will thrive as a student and learn to develop your scientific creativity. The University of Oslo offers  a rich and active student environment with more than 200 student led activities and organizations. 
 
 === Studies abroad ===
 
@@ -39,7 +45,7 @@ collaborating institution is something we highly recommend. As a
 student in this program you have a number of interesting international
 exchange possibilities. The involved researchers have extensive
 collaborations with other researchers worldwide. These exchange
-possibility range from top universities in the USA, Asia and Europe as
+possibilities range from top universities in the USA, Asia and Europe as
 well as leading National Laboratories in the USA. Don't hesitate to
 get in touch with  the contact person of your study option in case you plan to
 spend some time abroad. Studies at other
@@ -64,7 +70,7 @@ when working on your thesis project are very similar to the methods
 you  will use in later stages of your career.  To handle large
 numerical projects demands structured thinking and good analytical
 skills and a thorough understanding of the problems to be solved. This
-knowledge makes the students unique on the labor market.
+knowledge makes you unique on the labor market.
 
 Career opportunities are many, from research institutes, universities
 and university colleges and a multitude of companies. The program gives an
