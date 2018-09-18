@@ -1,4 +1,4 @@
-This site contains information about the newly established Master of Science program in computational science at the University of Oslo. 
+This site contains information about the newly established Master of Science program in computational science at the University of Oslo, see https://www.uio.no/english/studies/programmes/computational-science-master/index.html
 
 The program will educate the next generation of cross-disciplinary science students with the knowledge, skills, and values needed to pose and solve current and new scientific, technological and societal challenges. The program will lay the foundation for cross-disciplinary educational, research and innovation activities.
 
